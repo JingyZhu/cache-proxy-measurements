@@ -1,0 +1,2158 @@
+{
+    "datetonight.xyz.json": {
+        "22529F94B7D351CD523940C70D3CC42C": {
+            "url": "http://datetonight.xyz/",
+            "method": "GET",
+            "type": "Document",
+            "headers": {
+                "Host": "datetonight.xyz",
+                "Connection": "keep-alive",
+                "Upgrade-Insecure-Requests": "1",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36",
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+                "Accept-Encoding": "gzip, deflate"
+            },
+            "response": {
+                "Content-Type": "application/xml",
+                "Transfer-Encoding": "chunked",
+                "Connection": "keep-alive",
+                "x-amz-bucket-region": "eu-central-1",
+                "Date": "Wed, 17 Oct 2018 19:25:24 GMT",
+                "Server": "AmazonS3",
+                "X-Cache": "Error from cloudfront",
+                "Via": "1.1 63c350b174274e92447ab6d59c937632.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Id": "pv7BLkTibRGtRJ3iHP8sTzPLU3QDQsPsRXHrv3vMpf38M-28ONkwuA=="
+            },
+            "bytes": 627
+        }
+    },
+    "yonsei.ac.kr.json": {
+        "1000027083.3": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/_css/default.css",
+            "method": "GET",
+            "type": "Stylesheet",
+            "headers": {
+                "Accept": "text/css,*/*;q=0.1",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:49 GMT",
+                "Last-Modified": "Wed, 17 Oct 2018 03:44:09 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "34506",
+                "Content-Type": "text/css"
+            },
+            "bytes": 34679
+        },
+        "1000027083.4": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/_css/board.css",
+            "method": "GET",
+            "type": "Stylesheet",
+            "headers": {
+                "Accept": "text/css,*/*;q=0.1",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:49 GMT",
+                "Last-Modified": "Wed, 17 Oct 2018 07:20:24 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "34707",
+                "Content-Type": "text/css"
+            },
+            "bytes": 34880
+        },
+        "1000027083.5": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/_css/swiper.min.css",
+            "method": "GET",
+            "type": "Stylesheet",
+            "headers": {
+                "Accept": "text/css,*/*;q=0.1",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:49 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:51 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "14437",
+                "Content-Type": "text/css"
+            },
+            "bytes": 14610
+        },
+        "1000027083.7": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/_css/user.css",
+            "method": "GET",
+            "type": "Stylesheet",
+            "headers": {
+                "Accept": "text/css,*/*;q=0.1",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:49 GMT",
+                "Last-Modified": "Wed, 17 Oct 2018 05:38:26 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "2259",
+                "Content-Type": "text/css"
+            },
+            "bytes": 2431
+        },
+        "1000027083.6": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/_css/main.css",
+            "method": "GET",
+            "type": "Stylesheet",
+            "headers": {
+                "Accept": "text/css,*/*;q=0.1",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:49 GMT",
+                "Last-Modified": "Mon, 19 Feb 2018 03:42:27 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "16041",
+                "Content-Type": "text/css"
+            },
+            "bytes": 16214
+        },
+        "1000027083.8": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/_js/user/jquery.min.js",
+            "method": "GET",
+            "type": "Script",
+            "headers": {
+                "Accept": "*/*",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:49 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:52 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "95935",
+                "Content-Type": "text/javascript"
+            },
+            "bytes": 96115
+        },
+        "1000027083.9": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/_js/user/jquery-ui.min.js",
+            "method": "GET",
+            "type": "Script",
+            "headers": {
+                "Accept": "*/*",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:49 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:52 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "239578",
+                "Content-Type": "text/javascript"
+            },
+            "bytes": 239759
+        },
+        "1000027083.25": {
+            "url": "http://log.yonsei.ac.kr/InsightTrk/tracker.do?pfno=8302&uuid=5bec8f1fffad802f2304d3e6ba8e0af1_03629&sid=841b7819a12b4266f1e8d3e6ba8e0af1_03629&guuid=5bec8f1fffad802f2304d3e6ba8e0af1_03629&expired=1539805429&dr=&XDR=&dt=YONSEI%20University&du=http%3A%2F%2Fwww.yonsei.ac.kr%2Fen_sc%2Findex.jsp&cp=%5EYONSEIUniversity&mvt1=OUTIP&js=Y&sr=800x600&scd=24&je=N&tz=0&tye=2018&tmo=10&tda=17&tho=19&tmi=13&tse=49&lng=en-US&os=Linux%20x86_64&cpu=&vr=5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML,%20like%20Gecko)%20Ubuntu%20Chromium%2F69.0.3497.81%20HeadlessChrome%2F69.0.3497.81%20Safari%2F537.36&ck=Y&brsz=800x600&isnw=Y",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "_INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000",
+                "Host": "log.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 18:56:28 GMT",
+                "Server": "Unknown",
+                "Set-Cookie": "JSESSIONID=1391EA28E9398ACAFCA415009096FF1A; Path=/InsightTrk/; HttpOnly\nBIC_10=8302|1540980829|0; Domain=log.yonsei.ac.kr; Expires=Fri, 09-Oct-2048 18:56:28 GMT; Path=/\nBIC_11=8302|1540911599||; Domain=log.yonsei.ac.kr; Expires=Fri, 09-Oct-2048 18:56:28 GMT; Path=/\nBIC_00=8300|5bec8f1fffad802f2304d3e6ba8e0af1_03629|18.188.155.223|US^Seattle^Amazon+Technologies+Inc.^; Domain=log.yonsei.ac.kr; Expires=Fri, 09-Oct-2048 18:56:28 GMT; Path=/\nBIC_01=8302|1539773029|841b7819a12b4266f1e8d3e6ba8e0af1_03629|1539802588|1539802588|32|BOOKMARK|||||1|1||3; Domain=log.yonsei.ac.kr; Expires=Fri, 09-Oct-2048 18:56:28 GMT; Path=/\nBIC_02=8302|5bec8f1fffad802f2304d3e6ba8e0af1_03629|1|1539802588||0|0^0^0^0^0^0^0^0^0^0|0^0^0^0^0^0^0^0^0^0; Domain=log.yonsei.ac.kr; Expires=Fri, 09-Oct-2048 18:56:28 GMT; Path=/\nBIC_03=8302|||||||||||; Domain=log.yonsei.ac.kr; Expires=Fri, 09-Oct-2048 18:56:28 GMT; Path=/\nBIC_04=8302|1|0|0|||-1|-1|0^0^0^0^0^0^0^0^0^0|0^0^0^0^0^0^0^0^0^0|-1^-1^-1^-1^-1^-1^-1^-1^-1^-1|-1^-1^-1^-1^-1^-1^-1^-1^-1^-1; Domain=log.yonsei.ac.kr; Expires=Fri, 09-Oct-2048 18:56:28 GMT; Path=/\nBIC_05=8302|Y|N; Domain=log.yonsei.ac.kr; Expires=Wed, 17-Oct-2018 23:42:37 GMT; Path=/\nBIC_06=8302|Y; Domain=log.yonsei.ac.kr; Expires=Sat, 20-Oct-2018 23:42:37 GMT; Path=/\nBIC_07=8302|Y; Domain=log.yonsei.ac.kr; Expires=Wed, 31-Oct-2018 23:42:37 GMT; Path=/\nBIC_08=8302|Y; Domain=log.yonsei.ac.kr; Expires=Mon, 31-Dec-2018 23:42:37 GMT; Path=/\nBIC_09=8302|1540980829|1; Domain=log.yonsei.ac.kr; Expires=Fri, 09-Oct-2048 18:56:28 GMT; Path=/\n_ISCK_CONVTP=8302||||; Expires=Fri, 09-Oct-2048 18:56:28 GMT",
+                "Content-Type": "image/webp",
+                "Content-Length": "39",
+                "P3P": "policyref=\"http://logger.co.kr/w3c/p3p.xml\", CP=\"NOI DSP LAW NID PSA OUR IND NAV STA COM\""
+            },
+            "bytes": 39
+        },
+        "1000027083.10": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/_js/user/imagesloaded.pkgd.min.js",
+            "method": "GET",
+            "type": "Script",
+            "headers": {
+                "Accept": "*/*",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:49 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:52 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "6957",
+                "Content-Type": "text/javascript"
+            },
+            "bytes": 7136
+        },
+        "1000027083.11": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/_js/user/swiper.jquery.min.js",
+            "method": "GET",
+            "type": "Script",
+            "headers": {
+                "Accept": "*/*",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:50 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:52 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "54016",
+                "Content-Type": "text/javascript"
+            },
+            "bytes": 54196
+        },
+        "1000027083.12": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/_js/user/common.js",
+            "method": "GET",
+            "type": "Script",
+            "headers": {
+                "Accept": "*/*",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:50 GMT",
+                "Last-Modified": "Tue, 06 Oct 2015 09:09:32 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "14870",
+                "Content-Type": "text/javascript"
+            },
+            "bytes": 15050
+        },
+        "1000027083.13": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/_js/user/main.js",
+            "method": "GET",
+            "type": "Script",
+            "headers": {
+                "Accept": "*/*",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:50 GMT",
+                "Last-Modified": "Tue, 07 Feb 2017 07:03:40 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "9171",
+                "Content-Type": "text/javascript"
+            },
+            "bytes": 9350
+        },
+        "1000027083.15": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/_js/user.js",
+            "method": "GET",
+            "type": "Script",
+            "headers": {
+                "Accept": "*/*",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:50 GMT",
+                "Last-Modified": "Fri, 28 Sep 2018 01:04:21 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "1000",
+                "Content-Type": "text/javascript"
+            },
+            "bytes": 1179
+        },
+        "1000027083.14": {
+            "url": "http://www.yonsei.ac.kr/_common/cms.js",
+            "method": "GET",
+            "type": "Script",
+            "headers": {
+                "Accept": "*/*",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:50 GMT",
+                "Last-Modified": "Tue, 16 Oct 2018 10:43:33 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "118782",
+                "Content-Type": "text/javascript"
+            },
+            "bytes": 118963
+        },
+        "1000027083.16": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/common/btn_gnbclose.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:50 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "1050",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1223
+        },
+        "1000027083.32": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/main/btn_prevVisual.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:53 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "1106",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1279
+        },
+        "1000027083.33": {
+            "url": "http://www.yonsei.ac.kr/_attach/image/en_sc/2017/11/thumb_a15ab147132b24f60c10f363b936fe6e.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:53 GMT",
+                "Last-Modified": "Thu, 16 Nov 2017 04:43:37 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "694240",
+                "Content-Type": "image/jpeg"
+            },
+            "bytes": 694416
+        },
+        "1000027083.34": {
+            "url": "http://www.yonsei.ac.kr/_attach/image/en_sc/2017/08/thumb_996132cbb9e8a5af358c31762cd27519.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:53 GMT",
+                "Last-Modified": "Thu, 24 Aug 2017 01:23:29 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "276383",
+                "Content-Type": "image/jpeg"
+            },
+            "bytes": 276559
+        },
+        "1000027083.91": {
+            "url": "http://www.yonsei.ac.kr/_common/js/select/dropkick.1-0.1.js",
+            "method": "GET",
+            "type": "Script",
+            "headers": {
+                "Accept": "*/*",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:53 GMT",
+                "Last-Modified": "Sun, 28 Jun 2015 11:14:39 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "14263",
+                "Content-Type": "text/javascript"
+            },
+            "bytes": 14443
+        },
+        "1000027083.93": {
+            "url": "http://www.yonsei.ac.kr/_common/js/control.js",
+            "method": "GET",
+            "type": "Script",
+            "headers": {
+                "Accept": "*/*",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:53 GMT",
+                "Last-Modified": "Tue, 22 Sep 2015 06:40:33 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "50772",
+                "Content-Type": "text/javascript"
+            },
+            "bytes": 50952
+        },
+        "1000027083.42": {
+            "url": "http://www.yonsei.ac.kr/_attach/image/en_sc/2017/08/thumb_15ca352142e4f561f81c506d462ae013.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:54 GMT",
+                "Last-Modified": "Thu, 24 Aug 2017 01:05:12 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "21586",
+                "Content-Type": "image/jpeg"
+            },
+            "bytes": 21761
+        },
+        "1000027083.35": {
+            "url": "http://www.yonsei.ac.kr/_attach/image/en_sc/2017/08/thumb_d245992ae3cc8f68c4ebcabfe5b84912.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:54 GMT",
+                "Last-Modified": "Thu, 24 Aug 2017 01:23:42 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "464238",
+                "Content-Type": "image/jpeg"
+            },
+            "bytes": 464414
+        },
+        "1000027083.36": {
+            "url": "http://www.yonsei.ac.kr/_attach/image/en_sc/2017/08/thumb_348fdcec7b7e150431a6fb475fcd2013.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:54 GMT",
+                "Last-Modified": "Thu, 24 Aug 2017 01:23:56 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "382805",
+                "Content-Type": "image/jpeg"
+            },
+            "bytes": 382981
+        },
+        "1000027083.37": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/main/btn_nextVisual.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:54 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "1096",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1269
+        },
+        "1000027083.182": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/common/ir_common.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/_res/en_sc/_css/default.css",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:54 GMT",
+                "Last-Modified": "Fri, 25 Sep 2015 04:17:29 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "42085",
+                "Content-Type": "image/png"
+            },
+            "bytes": 42259
+        },
+        "1000027083.43": {
+            "url": "http://www.yonsei.ac.kr/_attach/image/en_sc/2017/08/thumb_9ed69c8a39902a4783ec5a39411d320e.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:54 GMT",
+                "Last-Modified": "Thu, 24 Aug 2017 01:05:28 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "14484",
+                "Content-Type": "image/jpeg"
+            },
+            "bytes": 14659
+        },
+        "1000027083.44": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/main/btn_prevSlide.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:54 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "997",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1169
+        },
+        "1000027083.45": {
+            "url": "http://www.yonsei.ac.kr/_attach/file/ocx/news/2017/02/thumb_KPtOJifHuhoIIFWCLGqIsBfMS.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:54 GMT",
+                "Last-Modified": "Tue, 21 Feb 2017 09:08:27 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "16391",
+                "Content-Type": "image/jpeg"
+            },
+            "bytes": 16566
+        },
+        "1000027083.46": {
+            "url": "http://www.yonsei.ac.kr/_attach/file/ocx/news/2017/02/thumb_LcogLxzlmxYKqNJPgAZjlwpRQ.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:54 GMT",
+                "Last-Modified": "Tue, 21 Feb 2017 08:50:10 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "7896",
+                "Content-Type": "image/jpeg"
+            },
+            "bytes": 8070
+        },
+        "1000027083.47": {
+            "url": "http://www.yonsei.ac.kr/_attach/file/ocx/news/2017/02/thumb_LrLqpMBnzcaRhChWgrazMlGXR.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:54 GMT",
+                "Last-Modified": "Tue, 21 Feb 2017 00:51:53 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "17111",
+                "Content-Type": "image/jpeg"
+            },
+            "bytes": 17286
+        },
+        "1000027083.48": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/main/btn_nextSlide.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:54 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "1000",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1173
+        },
+        "1000027083.49": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/main/btn_more.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:54 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "984",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1156
+        },
+        "1000027083.51": {
+            "url": "http://www.yonsei.ac.kr/_attach/image/jwxe/2017/11/thumb_d3e19022e3f2db482d7588ea39aa1bb1.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:54 GMT",
+                "Last-Modified": "Wed, 17 Oct 2018 00:29:12 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "29216",
+                "Content-Type": "image/jpeg"
+            },
+            "bytes": 29391
+        },
+        "1000027083.52": {
+            "url": "http://www.yonsei.ac.kr/_attach/image/jwxe/2017/09/thumb_eade04222563baa66fcd135514011c63.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Wed, 17 Oct 2018 00:29:11 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "18556",
+                "Content-Type": "image/jpeg"
+            },
+            "bytes": 18731
+        },
+        "1000027083.53": {
+            "url": "http://www.yonsei.ac.kr/_attach/image/jwxe/2017/09/thumb_85e39325bfe96cfe6b1e83ac063db588.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Wed, 17 Oct 2018 00:29:13 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "31893",
+                "Content-Type": "image/jpeg"
+            },
+            "bytes": 32068
+        },
+        "1000027083.54": {
+            "url": "http://www.yonsei.ac.kr/_attach/image/jwxe/2017/09/thumb_455cc03e303478e0f3054ca340d634a2.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Wed, 17 Oct 2018 00:29:06 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "70722",
+                "Content-Type": "image/jpeg"
+            },
+            "bytes": 70897
+        },
+        "1000027083.58": {
+            "url": "http://www.yonsei.ac.kr/_res/en_test/img/main/btn_prevSlide.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Tue, 06 Feb 2018 00:37:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "997",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1169
+        },
+        "1000027083.59": {
+            "url": "http://www.yonsei.ac.kr/_attach/file/ocx/movie/2018/10/thumb_rQFRzovqsMlrZsjamyKgxkoZq.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Fri, 12 Oct 2018 07:54:55 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "133270",
+                "Content-Type": "image/png"
+            },
+            "bytes": 133445
+        },
+        "1000027083.60": {
+            "url": "http://www.yonsei.ac.kr/_attach/file/ocx/movie/2018/10/thumb_vLHJXHOUutusHoePEcRGTekdY.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Fri, 12 Oct 2018 05:13:39 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "145959",
+                "Content-Type": "image/png"
+            },
+            "bytes": 146134
+        },
+        "1000027083.61": {
+            "url": "http://www.yonsei.ac.kr/_attach/file/ocx/movie/2018/10/thumb_HGBKLPmkJqMbjtaMbYpxxZJZm.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Thu, 11 Oct 2018 05:13:29 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "10166",
+                "Content-Type": "image/jpeg"
+            },
+            "bytes": 10341
+        },
+        "1000027083.62": {
+            "url": "http://www.yonsei.ac.kr/_res/en_test/img/main/btn_nextSlide.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Tue, 06 Feb 2018 00:37:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "1000",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1173
+        },
+        "1000027083.63": {
+            "url": "http://www.yonsei.ac.kr/_res/en_test/img/main/btn_more.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Tue, 06 Feb 2018 00:37:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "984",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1156
+        },
+        "1000027083.173": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/common/bg_familysite2.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/_res/en_sc/_css/default.css",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "1011",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1184
+        },
+        "1000027083.174": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/common/bg_footermenu.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/_res/en_sc/_css/default.css",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "940",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1112
+        },
+        "1000027083.175": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/common/play.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/_res/en_sc/_css/main.css",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "4873",
+                "Content-Type": "image/png"
+            },
+            "bytes": 5046
+        },
+        "1000027083.176": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/main/bg_spotlites.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/_res/en_sc/_css/main.css",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "1634",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1807
+        },
+        "1000027083.177": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/main/bul_issue.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/_res/en_sc/_css/main.css",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "1100",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1273
+        },
+        "1000027083.178": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/main/btn_play2.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/_res/en_sc/_css/main.css",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "1375",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1548
+        },
+        "1000027083.179": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/main/btn_pause2.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/_res/en_sc/_css/main.css",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "1041",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1214
+        },
+        "1000027083.180": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/main/bg_newsHit.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/_res/en_sc/_css/main.css",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "956",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1128
+        },
+        "1000027083.181": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/common/bg_mgnb.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/_res/en_sc/_css/default.css",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Mon, 07 Sep 2015 07:02:26 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "2796",
+                "Content-Type": "image/png"
+            },
+            "bytes": 2969
+        },
+        "1000027083.192": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/main/bul_issue2.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/_res/en_sc/_css/main.css",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "1327",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1500
+        },
+        "1000027083.193": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/main/bul_issue_on2.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/_res/en_sc/_css/main.css",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:55 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "1226",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1399
+        },
+        "1000027083.194": {
+            "url": "http://www.yonsei.ac.kr/en_sc/undefined",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/en_sc/index.jsp",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:56 GMT",
+                "Connection": "Keep-Alive",
+                "Transfer-Encoding": "chunked",
+                "Content-Type": "text/html; charset=UTF-8"
+            },
+            "bytes": 1892
+        },
+        "1000027083.195": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/main/btn_play.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/_res/en_sc/_css/main.css",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:56 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "977",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1149
+        },
+        "1000027083.196": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/main/btn_pause.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/_res/en_sc/_css/main.css",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:56 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "959",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1131
+        },
+        "1000027083.197": {
+            "url": "http://www.yonsei.ac.kr/_res/en_sc/img/main/bul_issue_on.png",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "http://www.yonsei.ac.kr/_res/en_sc/_css/main.css",
+                "Cookie": "JSESSIONID=WZiTXG6Uc1ipKgda109rEVKfROTSQ1ad3TamIahwrnAE7w9c0iQW12Ali4rFsxuK.ysmainweb1_servlet_engine1; en_sc_visited=64244701; _INSIGHT_CK_8302=5bec8f1fffad802f2304d3e6ba8e0af1_03629|841b7819a12b4266f1e8d3e6ba8e0af1_03629:1539805429000; AMCVS_686A3E135A2FEC210A495C17%40AdobeOrg=1; AMCV_686A3E135A2FEC210A495C17%40AdobeOrg=-1303530583%7CMCIDTS%7C17822%7CMCMID%7C27547157300644710034081617713880845540%7CMCAAMLH-1540408433%7C7%7CMCAAMB-1540408433%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1539810833s%7CNONE%7CvVersion%7C3.3.0",
+                "Host": "www.yonsei.ac.kr",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Wed, 17 Oct 2018 19:13:56 GMT",
+                "Last-Modified": "Thu, 03 Sep 2015 02:42:50 GMT",
+                "Connection": "Keep-Alive",
+                "Content-Length": "1079",
+                "Content-Type": "image/png"
+            },
+            "bytes": 1252
+        }
+    },
+    "tufos.com.br.json": {},
+    "i3investor.com.json": {
+        "C34BA6A367FFDA4D75D1A9CF2E4CACFA": {
+            "url": "https://www.i3investor.com/index.jsp",
+            "method": "GET",
+            "type": "Document",
+            "headers": {
+                ":method": "GET",
+                ":authority": "www.i3investor.com",
+                ":scheme": "https",
+                ":path": "/index.jsp",
+                "upgrade-insecure-requests": "1",
+                "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36",
+                "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+                "accept-encoding": "gzip, deflate",
+                "cookie": "__cfduid=d1d7ddf314e49d5d1544bfda30557c0b11539803254"
+            },
+            "response": {
+                "status": "200",
+                "date": "Wed, 17 Oct 2018 19:07:34 GMT",
+                "content-type": "text/html;charset=UTF-8",
+                "set-cookie": "__atvuca_dfp1=1539803254905usdf1f8d21ae426a43c4a8253a9e4148469dbe915; Domain=.i3investor.com; Expires=Sat, 14-Oct-2028 19:07:34 GMT; Path=/\nJSESSIONID=325B5406C59266858701D0EAEF692315; Path=/; Secure; HttpOnly",
+                "vary": "Accept-Encoding,User-Agent",
+                "content-encoding": "gzip",
+                "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+                "server": "cloudflare",
+                "cf-ray": "46b50c86fd0157a7-IAD"
+            },
+            "bytes": 11776
+        },
+        "1000006995.77": {
+            "url": "https://d31qbv1cthcecs.cloudfront.net/atrk.js",
+            "method": "GET",
+            "type": "Script",
+            "headers": {
+                "Accept": "*/*",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.i3investor.com/index.jsp",
+                "Host": "d31qbv1cthcecs.cloudfront.net",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Tue, 09 Oct 2018 23:36:18 GMT",
+                "Content-Encoding": "gzip",
+                "Last-Modified": "Tue, 09 Oct 2018 23:27:27 GMT",
+                "Server": "AmazonS3",
+                "Age": "39505",
+                "Vary": "Accept-Encoding",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "text/javascript",
+                "Via": "1.1 6f05f71f34e695217d05ef7627c11c8a.cloudfront.net (CloudFront)",
+                "Transfer-Encoding": "chunked",
+                "Connection": "keep-alive",
+                "X-Amz-Cf-Id": "9pA8XbFv9fIjB7rPpBcUE7rV3_H7vtPHKUUyCinc7VjCqOrY_G6itg=="
+            },
+            "bytes": 2084
+        },
+        "1000006995.117": {
+            "url": "https://certify.alexametrics.com/atrk.gif?frame_height=600&frame_width=800&iframe=0&title=I3investor%20-%20Stock%20Investment%20Portal&time=1539803255218&time_zone_offset=0&screen_params=800x600x24&java_enabled=0&cookie_enabled=1&ref_url=&host_url=https%3A%2F%2Fwww.i3investor.com%2Findex.jsp&random_number=13878910869&sess_cookie=19e8c9d2166836d11b16cb48685&sess_cookie_flag=1&user_cookie=19e8c9d2166836d11b16cb48685&user_cookie_flag=1&dynamic=true&domain=i3investor.com&account=OzpRh1aUXR008S&jsv=20130128&user_lang=en-US",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.i3investor.com/index.jsp",
+                "Host": "certify.alexametrics.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "Date": "Tue, 21 Nov 2017 21:18:02 GMT",
+                "Via": "1.1 64df5a05e965cc8401e87c70abcdffe6.cloudfront.net (CloudFront)",
+                "Last-Modified": "Mon, 17 Jan 2011 20:41:40 GMT",
+                "Server": "AmazonS3",
+                "Age": "63794",
+                "ETag": "\"221d8352905f2c38b3cb2bd191d630b0\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/gif",
+                "Accept-Ranges": "bytes",
+                "Connection": "keep-alive",
+                "x-amz-meta-alexa-last-modified": "20110117123941",
+                "Content-Length": "43",
+                "X-Amz-Cf-Id": "afHljeTWqopyWpcsPvgoK9Cb0ULEusMIYrIdb9bnVreXTAkd1EHj6w=="
+            },
+            "bytes": 528
+        }
+    },
+    "stylecraze.com.json": {
+        "1000004710.13": {
+            "url": "https://delivery.adrecover.com/15310/adRecover.js",
+            "method": "GET",
+            "type": "Script",
+            "headers": {
+                ":path": "/15310/adRecover.js",
+                "accept-encoding": "gzip, deflate",
+                "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36",
+                "accept": "*/*",
+                "referer": "https://www.stylecraze.com/",
+                ":authority": "delivery.adrecover.com",
+                ":scheme": "https",
+                ":method": "GET"
+            },
+            "response": {
+                "date": "Wed, 17 Oct 2018 19:28:38 GMT",
+                "content-encoding": "gzip",
+                "x-cf3": "M",
+                "cf4ttl": "31536000.000",
+                "x-cf1": "27741:fC.iad2:cf:cacheA.iad2-01:H",
+                "status": "200",
+                "content-length": "11082",
+                "x-cf-tsc": "1539278525",
+                "x-cf2": "H",
+                "last-modified": "Thu, 11 Oct 2018 17:14:09 GMT",
+                "server": "CFS 0215",
+                "x-cff": "B",
+                "vary": "Accept-Encoding",
+                "content-type": "application/x-javascript",
+                "x-cfhash": "\"d7fc93e309d4ae9dd9997fcaae98c1e1\"",
+                "cf4age": "0",
+                "accept-ranges": "bytes"
+            },
+            "bytes": 11382
+        },
+        "1000004710.288": {
+            "url": "https://delivery.adrecover.com/block.jpg?ts=1539804518913",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                ":path": "/block.jpg?ts=1539804518913",
+                "accept-encoding": "gzip, deflate",
+                "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36",
+                "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "referer": "https://www.stylecraze.com/",
+                ":authority": "delivery.adrecover.com",
+                ":scheme": "https",
+                ":method": "GET"
+            },
+            "response": {
+                "date": "Wed, 17 Oct 2018 19:28:38 GMT",
+                "x-cf2": "H",
+                "last-modified": "Fri, 22 Jul 2016 20:31:34 GMT",
+                "server": "CFS 0215",
+                "cf4ttl": "31536000.000",
+                "x-cff": "B",
+                "x-cfhash": "\"706bd34581dd47cb205c9ff4a828e7ca\"",
+                "x-cf1": "27741:fC.iad2:cf:cacheA.iad2-01:H",
+                "content-type": "image/jpeg",
+                "status": "200",
+                "cf4age": "4",
+                "x-cf3": "H",
+                "accept-ranges": "bytes",
+                "content-length": "631",
+                "x-cf-tsc": "1525966450"
+            },
+            "bytes": 886
+        },
+        "1000004710.815": {
+            "url": "https://api.keen.io/3.0/projects/5ac5209bc9e77c000134dc08/events/hearbeat?api_key=58E5579F3065B747251A84EE31EE63CAD2537C21E99A77427951DDB67714A320E9C5BA9DBE17DAE6A663689C88521760B8587E415DC382F6E856AF878EEA2D6416B25D96D638FC5147CE6F82B88488CF10B04DF1BAFF5ABF63982B0AF5867B18&data=eyJzZXNzaW9uX2lkIjoidW5kZWZpbmVkIiwidGltZXN0YW1wIjoxNTM5ODA0NTE5MzI1LCJwYWdlX3VybCI6Imh0dHBzOi8vd3d3LnN0eWxlY3JhemUuY29tLyIsImtlZW4iOnsiYWRkb25zIjpbeyJuYW1lIjoia2VlbjpkYXRlX3RpbWVfcGFyc2VyIiwiaW5wdXQiOnsiZGF0ZV90aW1lIjoia2Vlbi50aW1lc3RhbXAifSwib3V0cHV0IjoidGltZXN0YW1wX2luZm8ifV19fQ%3D%3D&modified=1539804519326&jsonp=keenJSONPCallback1539804519326",
+            "method": "GET",
+            "type": "Script",
+            "headers": {
+                ":path": "/3.0/projects/5ac5209bc9e77c000134dc08/events/hearbeat?api_key=58E5579F3065B747251A84EE31EE63CAD2537C21E99A77427951DDB67714A320E9C5BA9DBE17DAE6A663689C88521760B8587E415DC382F6E856AF878EEA2D6416B25D96D638FC5147CE6F82B88488CF10B04DF1BAFF5ABF63982B0AF5867B18&data=eyJzZXNzaW9uX2lkIjoidW5kZWZpbmVkIiwidGltZXN0YW1wIjoxNTM5ODA0NTE5MzI1LCJwYWdlX3VybCI6Imh0dHBzOi8vd3d3LnN0eWxlY3JhemUuY29tLyIsImtlZW4iOnsiYWRkb25zIjpbeyJuYW1lIjoia2VlbjpkYXRlX3RpbWVfcGFyc2VyIiwiaW5wdXQiOnsiZGF0ZV90aW1lIjoia2Vlbi50aW1lc3RhbXAifSwib3V0cHV0IjoidGltZXN0YW1wX2luZm8ifV19fQ%3D%3D&modified=1539804519326&jsonp=keenJSONPCallback1539804519326",
+                "accept-encoding": "gzip, deflate",
+                "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36",
+                "accept": "*/*",
+                "referer": "https://www.stylecraze.com/",
+                ":authority": "api.keen.io",
+                ":scheme": "https",
+                ":method": "GET"
+            },
+            "response": {
+                "date": "Wed, 17 Oct 2018 19:28:39 GMT",
+                "server": "TornadoServer/4.5.1",
+                "status": "402",
+                "vary": "Accept-Encoding",
+                "content-type": "application/json",
+                "access-control-allow-origin": "*",
+                "access-control-allow-headers": "origin, content-type, accept, authorization, user-agent, keen-compute-source",
+                "content-length": "203"
+            }
+        },
+        "1000004710.60": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2014/01/Top-10-Bollywood-Bridal-Mehndi-Designs-You-Can-Try-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Tue, 31 Jul 2018 20:46:41 GMT",
+                "Via": "1.1 97c5dcf9c391508cdebbbfdcf304912f.cloudfront.net (CloudFront), 1.1 33c0585b4467f2755dfbe19b61e76e60.cloudfront.net (CloudFront)",
+                "Last-Modified": "Sat, 16 Jun 2018 13:48:37 GMT",
+                "Age": "1503459",
+                "ETag": "\"5b251535-6f06\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "28422",
+                "X-Amz-Cf-Id": "ReJUxnf7X6YIma3gbKagfNH_4r01pUpVhcXz6pcfmo8Iw3w7lG4WDg=="
+            },
+            "bytes": 28955
+        },
+        "1000004710.825": {
+            "url": "https://log.pinterest.com/?guid=a_JPNWFPDmy3&tv=2018101401&type=pidget&sub=www&button_count=0&follow_count=0&pin_count=0&profile_count=0&board_count=0&section_count=0&lang=en&xload=1&via=https%3A%2F%2Fwww.stylecraze.com%2F&callback=PIN_1539804519268.f.callback[0]",
+            "method": "GET",
+            "type": "Script",
+            "headers": {
+                "Accept": "*/*",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Host": "log.pinterest.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "x-pinterest-host": "widgets.pinterest.com",
+                "Date": "Wed, 17 Oct 2018 19:28:40 GMT",
+                "Via": "1.1 varnish",
+                "server": "envoy",
+                "X-Timer": "S1539804520.300810,VS0,VE4",
+                "X-Served-By": "cache-dca17724-DCA",
+                "X-Cache": "MISS",
+                "set-cookie": "_pinterest_cm=TWc9PSZzdGdTT1oyOE45RHU2cTdiQ3hoSzJ4QVlCVUsyTjU0ZHRybldqZ2FDd3lYekNnVTM1MU5INExHa2hlTG5vMmgzRlpnYzZaM0RYSmlwOUZzZzNoV1g3VjN6RDUyOENpcWRSQjc2dkoreGhLUVAybGMrS1lwYkh4TE1pd2o3eG9mTyY4OFVxcE93bVgzdHNhbVdhVW45T05ZZE5GMmM9; Expires=Thu, 17 Oct 2019 19:28:40 GMT; Domain=.pinterest.com",
+                "x-envoy-upstream-service-time": "2",
+                "Content-Length": "0",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes",
+                "x-pinterest-rid": "299547216915",
+                "X-Cache-Hits": "0"
+            },
+            "bytes": 668
+        },
+        "1000004710.103": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2017/10/25-Mesmerizing-Mermaid-Hair-Color-Ideas-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Sun, 29 Jul 2018 12:53:25 GMT",
+                "Via": "1.1 e6b9bae86e720d09b3641b95c50c6c83.cloudfront.net (CloudFront), 1.1 87b2b893bd925b02e3ab068f911f83b5.cloudfront.net (CloudFront)",
+                "Last-Modified": "Sat, 16 Jun 2018 00:03:28 GMT",
+                "Age": "2110622",
+                "ETag": "\"5b2453d0-3361\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "13153",
+                "X-Amz-Cf-Id": "yxK071sgJMsPZuLJ3a4QsSzbr4OC2_oPPPM0uaGroib5CET3UnSO8A=="
+            },
+            "bytes": 13686
+        },
+        "1000004710.104": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2017/10/20-Amazing-Brown-To-Blonde-Hair-Color-Ideas-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Fri, 06 Jul 2018 09:54:21 GMT",
+                "Via": "1.1 5d89a565ccf3467bf90667ebfc36953c.cloudfront.net (CloudFront), 1.1 55603e55124359b3cb49a75240c0c9c4.cloudfront.net (CloudFront)",
+                "Last-Modified": "Sat, 16 Jun 2018 00:27:27 GMT",
+                "Age": "1716439",
+                "ETag": "\"5b24596f-388b\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "14475",
+                "X-Amz-Cf-Id": "sIXISXFDGPSUP1rXUhp-vR5Hq4Q3QK4-6g584_rLqOjpHEYjWanU2w=="
+            },
+            "bytes": 15008
+        },
+        "1000004710.225": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2012/10/20-Best-Anti-Aging-Eye-Creams-Of-2018-That-Work-Wonders-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Tue, 31 Jul 2018 07:41:06 GMT",
+                "Via": "1.1 6f1f8362062a31675dde3c27bc22f2ef.cloudfront.net (CloudFront), 1.1 4bcf2cf54fd5ae8b72c2c156e5462e44.cloudfront.net (CloudFront)",
+                "Last-Modified": "Fri, 15 Jun 2018 18:59:53 GMT",
+                "Age": "1545204",
+                "ETag": "\"5b240ca9-3112\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "12562",
+                "X-Amz-Cf-Id": "G5m5p8X6Gn-SevD-UUWxX5AHhyi_t1AmH6H8RKa8fYZJaTQhy4owdg=="
+            },
+            "bytes": 13095
+        },
+        "1000004710.338": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2013/02/15-Best-Scrubs-For-Removing-Blackheads-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Fri, 06 Jul 2018 15:38:45 GMT",
+                "Via": "1.1 400e19a7f70282e0817451f6606ca8f9.cloudfront.net (CloudFront), 1.1 87b2b893bd925b02e3ab068f911f83b5.cloudfront.net (CloudFront)",
+                "Last-Modified": "Tue, 03 Jul 2018 10:55:51 GMT",
+                "Age": "1546277",
+                "ETag": "\"5b3b5637-38e0\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "14560",
+                "X-Amz-Cf-Id": "3vRC7F9WffhFHNgui72nLjiM7dHOKJEZxw2r0OB664uAYiETb16Img=="
+            },
+            "bytes": 15093
+        },
+        "1000004710.386": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2012/09/1543_50-Stylish-Hairstyles-For-Your-Little-Girl_131319290-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Mon, 23 Jul 2018 20:37:40 GMT",
+                "Via": "1.1 68807936c056006818525c5da31d108e.cloudfront.net (CloudFront), 1.1 1250a97722ffd2f193f7388bd6497c72.cloudfront.net (CloudFront)",
+                "Last-Modified": "Fri, 15 Jun 2018 15:34:13 GMT",
+                "Age": "1765542",
+                "ETag": "\"5b23dc75-3f07\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "16135",
+                "X-Amz-Cf-Id": "zGbXs_tkKxVRu3O0Ehaam4CxwCOSDBf1Y6la20p8OvcezB3FIqm7OA=="
+            },
+            "bytes": 16668
+        },
+        "1000004710.539": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2013/07/953-455722492-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Mon, 23 Jul 2018 20:45:14 GMT",
+                "Via": "1.1 97c5dcf9c391508cdebbbfdcf304912f.cloudfront.net (CloudFront), 1.1 33c0585b4467f2755dfbe19b61e76e60.cloudfront.net (CloudFront)",
+                "Last-Modified": "Tue, 19 Sep 2017 10:55:40 GMT",
+                "Age": "1956540",
+                "ETag": "\"59c0f7ac-4421\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "17441",
+                "X-Amz-Cf-Id": "JXyuwjSYCbVoLhLpA4v8bfF9ZAOuQ85gEB4yxaxmE84-UIeyXD5kuA=="
+            },
+            "bytes": 17974
+        },
+        "1000004710.543": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2013/01/110-5-Latest-Updo-Hairstyles-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Mon, 23 Jul 2018 20:45:15 GMT",
+                "Via": "1.1 5afc8eca980390e71a86518c6f90001a.cloudfront.net (CloudFront), 1.1 1250a97722ffd2f193f7388bd6497c72.cloudfront.net (CloudFront)",
+                "Last-Modified": "Wed, 27 Sep 2017 06:27:38 GMT",
+                "Age": "1647154",
+                "ETag": "\"59cb44da-3918\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "14616",
+                "X-Amz-Cf-Id": "kUkYqTqR2mIzuHsngh9RgAVECb44DBJn_RZ-79e3oFLBfQlEMaIcqw=="
+            },
+            "bytes": 15149
+        },
+        "1000004710.544": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2015/02/116-Gorgeous-Bun-Braid-Updos-To-Inspire-You-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Thu, 28 Jun 2018 08:38:43 GMT",
+                "Via": "1.1 5b51f6e8f38342d63beb93a0db7a392b.cloudfront.net (CloudFront), 1.1 4bcf2cf54fd5ae8b72c2c156e5462e44.cloudfront.net (CloudFront)",
+                "Last-Modified": "Sat, 16 Jun 2018 03:53:18 GMT",
+                "Age": "1719554",
+                "ETag": "\"5b2489ae-3c8c\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "15500",
+                "X-Amz-Cf-Id": "2f4Vt-t991Vc7jE_3qjC8AHoRIBir4XtUuF8S4zDB_GTZFHqd9RClQ=="
+            },
+            "bytes": 16033
+        },
+        "1000004710.545": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2015/02/1643-10-Easy-And-Quick-Banana-Clip-Hairstyles-You-Must-Try-ss-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Wed, 27 Jun 2018 14:33:54 GMT",
+                "Via": "1.1 400e19a7f70282e0817451f6606ca8f9.cloudfront.net (CloudFront), 1.1 33c0585b4467f2755dfbe19b61e76e60.cloudfront.net (CloudFront)",
+                "Last-Modified": "Sat, 16 Jun 2018 03:55:49 GMT",
+                "Age": "1711574",
+                "ETag": "\"5b248a45-374c\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "14156",
+                "X-Amz-Cf-Id": "bVnRBO_dKpGUnsDSIV9KwmxajD1WEPSvSN_aiT_v7AHddkD4LCKpcQ=="
+            },
+            "bytes": 14689
+        },
+        "1000004710.547": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2015/01/169-7-hairstyles-for-frizzy-wavy-hair_442641880-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Tue, 10 Jul 2018 07:56:42 GMT",
+                "Via": "1.1 1b714fb60008ae8cfc576b9649c2bd35.cloudfront.net (CloudFront), 1.1 87b2b893bd925b02e3ab068f911f83b5.cloudfront.net (CloudFront)",
+                "Last-Modified": "Sat, 16 Jun 2018 03:25:13 GMT",
+                "Age": "1545197",
+                "ETag": "\"5b248319-3521\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "13601",
+                "X-Amz-Cf-Id": "tSwXy667RNqjUK8HbBU29Wb-KiOoL2c7Xo2HBIkxy5_Vm3up_kUL3g=="
+            },
+            "bytes": 14134
+        },
+        "1000004710.550": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2012/12/Techniques-To-Get-Chic-Wavy-Hair-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Mon, 23 Jul 2018 20:37:39 GMT",
+                "Via": "1.1 68807936c056006818525c5da31d108e.cloudfront.net (CloudFront), 1.1 1250a97722ffd2f193f7388bd6497c72.cloudfront.net (CloudFront)",
+                "Last-Modified": "Fri, 15 Jun 2018 23:40:54 GMT",
+                "Age": "1344513",
+                "ETag": "\"5b244e86-4125\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "16677",
+                "X-Amz-Cf-Id": "j4y0CvVA9zamq9og80swlmFYWDPB2acuExS5n_woAbmztduuXo-7gg=="
+            },
+            "bytes": 17210
+        },
+        "1000004710.561": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2016/07/71-Do-You-Drink-Water-Immediately-Before-Or-After-A-Meal-ss-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Mon, 30 Jul 2018 21:00:29 GMT",
+                "Via": "1.1 9ee72f185c1cf76a94ad4bdb813cc45b.cloudfront.net (CloudFront), 1.1 55603e55124359b3cb49a75240c0c9c4.cloudfront.net (CloudFront)",
+                "Last-Modified": "Fri, 22 Sep 2017 12:39:16 GMT",
+                "Age": "1950018",
+                "ETag": "\"59c50474-38df\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "14559",
+                "X-Amz-Cf-Id": "4eGLbOV427jCGhm1ho7mhpS6NJWmKF6nfLuMOAuRaY912J0VS5TVoQ=="
+            },
+            "bytes": 15092
+        },
+        "1000004710.563": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2016/08/Have-Trouble-Sleeping-At-Night-These-9-Tips-Might-Help-You-1-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Mon, 23 Jul 2018 20:45:15 GMT",
+                "Via": "1.1 e272b56ab8dd1450f3dbafeb0f3671a9.cloudfront.net (CloudFront), 1.1 4bcf2cf54fd5ae8b72c2c156e5462e44.cloudfront.net (CloudFront)",
+                "Last-Modified": "Mon, 02 Apr 2018 08:31:38 GMT",
+                "Age": "1765087",
+                "ETag": "\"5ac1ea6a-2c72\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "11378",
+                "X-Amz-Cf-Id": "ghNkD3cVi1_Ee3WAuqcVhPOsUxb1G0gzw_6OXgDcxCSPN0HRFSXkWQ=="
+            },
+            "bytes": 11911
+        },
+        "1000004710.597": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2014/01/20-Best-High-Calorie-Healthy-Foods-For-Weight-Gain-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Thu, 28 Jun 2018 09:21:53 GMT",
+                "Via": "1.1 1a1272478361d8461b68eec8a4e3b072.cloudfront.net (CloudFront), 1.1 55603e55124359b3cb49a75240c0c9c4.cloudfront.net (CloudFront)",
+                "Last-Modified": "Sat, 16 Jun 2018 13:11:17 GMT",
+                "Age": "1549042",
+                "ETag": "\"5b250c75-7502\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "29954",
+                "X-Amz-Cf-Id": "1bELWkkR5bjn2lz_MueBUNmrMdHB7EClVw6aHIed0M6hqVwgKdUz9A=="
+            },
+            "bytes": 30487
+        },
+        "1000004710.612": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2012/07/Do-We-Need-Animal-Testing-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Sat, 30 Jun 2018 12:45:54 GMT",
+                "Via": "1.1 e272b56ab8dd1450f3dbafeb0f3671a9.cloudfront.net (CloudFront), 1.1 87b2b893bd925b02e3ab068f911f83b5.cloudfront.net (CloudFront)",
+                "Last-Modified": "Fri, 15 Jun 2018 14:39:03 GMT",
+                "Age": "1566846",
+                "ETag": "\"5b23cf87-4921\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "18721",
+                "X-Amz-Cf-Id": "aIGASBpXuyP1E-ZFf8kqWOp2eHVyKDd9kXdHQz3XF8UUv03wF1Pd3g=="
+            },
+            "bytes": 19254
+        },
+        "1000004710.614": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2016/10/The-Official-ComfyMat-Review-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Wed, 04 Jul 2018 12:41:50 GMT",
+                "Via": "1.1 7cce0961450ef6caf68e8045176d0c0d.cloudfront.net (CloudFront), 1.1 99dbd2a3f5ac7f737ea28ce5c6a8e823.cloudfront.net (CloudFront)",
+                "Last-Modified": "Fri, 29 Sep 2017 10:04:57 GMT",
+                "Age": "1575411",
+                "ETag": "\"59ce1ac9-3231\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "12849",
+                "X-Amz-Cf-Id": "LppY_MY_iZ0Ogahlo42DX1OdBpfFeQ-4GfUwIeaDDzy9V7GiW3HJlA=="
+            },
+            "bytes": 13382
+        },
+        "1000004710.613": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2017/02/MamaEarth-Babycare-Products-Review-Why-It-Is-A-Safe-Bet-For-Mothers-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Wed, 27 Jun 2018 15:22:50 GMT",
+                "Via": "1.1 5b51f6e8f38342d63beb93a0db7a392b.cloudfront.net (CloudFront), 1.1 4bcf2cf54fd5ae8b72c2c156e5462e44.cloudfront.net (CloudFront)",
+                "Last-Modified": "Fri, 15 Jun 2018 19:38:15 GMT",
+                "Age": "1549392",
+                "ETag": "\"5b2415a7-2b2a\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "11050",
+                "X-Amz-Cf-Id": "yDzh_-TrrY7gC3oRUzYiO5JdnuxjsX1stwQ0y47ezvMDbzFFLatZnw=="
+            },
+            "bytes": 11583
+        },
+        "1000004710.630": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2014/11/5-Simple-Tips-To-Build-Your-Mental-Stamina-1-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Wed, 04 Jul 2018 12:41:51 GMT",
+                "Via": "1.1 ca79756ec49e2babf1b916300304b2fb.cloudfront.net (CloudFront), 1.1 87b2b893bd925b02e3ab068f911f83b5.cloudfront.net (CloudFront)",
+                "Last-Modified": "Sun, 17 Jun 2018 01:46:05 GMT",
+                "Age": "1415830",
+                "ETag": "\"5b25bd5d-38d6\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "14550",
+                "X-Amz-Cf-Id": "uicuSboX1mpoTCHYhznEI1t0cFKKVWWPeamZKzyX1UPYnDPYsnyptg=="
+            },
+            "bytes": 15083
+        },
+        "1000004710.631": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2012/12/50-Hair-Color-Styles-For-You-To-Try-Out-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Sun, 22 Jul 2018 18:30:44 GMT",
+                "Via": "1.1 e93b65cf89966087a2d9723b4713fb37.cloudfront.net (CloudFront), 1.1 99dbd2a3f5ac7f737ea28ce5c6a8e823.cloudfront.net (CloudFront)",
+                "Last-Modified": "Sat, 16 Jun 2018 01:17:13 GMT",
+                "Age": "1561524",
+                "ETag": "\"5b246519-45a5\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "17829",
+                "X-Amz-Cf-Id": "3fHedAG14ycJHM8-W1rfMueqZkjo1wpLhYlisaf4KGT91BCTHshbYw=="
+            },
+            "bytes": 18362
+        },
+        "1000004710.634": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2012/12/97-9-Braid-Buns-to-Try-This-Wedding-Season-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Thu, 28 Jun 2018 11:52:34 GMT",
+                "Via": "1.1 cc939d428763f6bf98a05191227da596.cloudfront.net (CloudFront), 1.1 55603e55124359b3cb49a75240c0c9c4.cloudfront.net (CloudFront)",
+                "Last-Modified": "Sat, 16 Jun 2018 00:36:06 GMT",
+                "Age": "1549381",
+                "ETag": "\"5b245b76-4f80\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "20352",
+                "X-Amz-Cf-Id": "IJrA0aVVcy33Ms39ovNMSI4ERFstFKUf8qGB72Yvk2G8adgNbq50Kg=="
+            },
+            "bytes": 20885
+        },
+        "1000004710.633": {
+            "url": "https://cdn2.stylecraze.com/wp-content/uploads/2012/12/7-Short-Hair-Cuts-You-Could-Try-Right-Now-1-267x300.jpg",
+            "method": "GET",
+            "type": "Image",
+            "headers": {
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Connection": "keep-alive",
+                "Accept-Encoding": "gzip, deflate",
+                "Referer": "https://www.stylecraze.com/",
+                "Cookie": "_ga=GA1.2.808937838.1539804519; _gid=GA1.2.1423023376.1539804519; session_uuid=679BEEE4-9632-42AC-B5F5-BA0F8C276CDF; _gat_UA-25764491-1=1; _gat_UA-25764491-13=1",
+                "Host": "cdn2.stylecraze.com",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+            },
+            "response": {
+                "X-Varnish-Cache": "MISS",
+                "Date": "Wed, 04 Jul 2018 12:41:50 GMT",
+                "Via": "1.1 af602aaeaac93f5e274192569f593f59.cloudfront.net (CloudFront), 1.1 1250a97722ffd2f193f7388bd6497c72.cloudfront.net (CloudFront)",
+                "Last-Modified": "Sat, 16 Jun 2018 00:56:45 GMT",
+                "Age": "1582370",
+                "ETag": "\"5b24604d-35cd\"",
+                "X-Cache": "Hit from cloudfront",
+                "Content-Type": "image/jpeg",
+                "X-Reboot": "TRUE",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes\nbytes",
+                "Content-Length": "13773",
+                "X-Amz-Cf-Id": "HaJnhjmheM9870b5NekIV5Z1GX4HZZPIhxozeEldAt7YqpOE8JaVxA=="
+            },
+            "bytes": 14306
+        }
+    }
+}

@@ -1,0 +1,1 @@
+chromium --remote-debugging-port=9222 --user-data-dir=/tmp/aaa --disk-cache-size=1 --disable-site-isolation-trials

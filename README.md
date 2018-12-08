@@ -1,0 +1,3 @@
+- login: Measurements for diff responses between login/unlogin cookies
+- maxage: Cacheable resources' maxage stats
+- req_header: headers data used for classify cacheable/uncacheable requests from client-side

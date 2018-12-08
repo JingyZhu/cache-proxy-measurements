@@ -1,0 +1,1264 @@
+{
+    "1000010945.12": {
+        "url": "http://mybbc.files.bbci.co.uk/notification-ui/3.8.4/css/main.min.css",
+        "method": "GET",
+        "type": "Stylesheet",
+        "headers": {
+            "Accept": "text/css,*/*;q=0.1",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "mybbc.files.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.8": {
+        "url": "http://nav.files.bbci.co.uk/searchbox/1.0.0-137/css/main.css",
+        "method": "GET",
+        "type": "Stylesheet",
+        "headers": {
+            "Accept": "text/css,*/*;q=0.1",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "nav.files.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.2": {
+        "url": "http://static.bbci.co.uk/frameworks/barlesque/3.22.55/orb/4/style/orb.min.css",
+        "method": "GET",
+        "type": "Stylesheet",
+        "headers": {
+            "Accept": "text/css,*/*;q=0.1",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.13": {
+        "url": "http://static.bbci.co.uk/wwhp/1.128.0/responsive/css/wwhp.min.css",
+        "method": "GET",
+        "type": "Stylesheet",
+        "headers": {
+            "Accept": "text/css,*/*;q=0.1",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.6": {
+        "url": "http://static.bbci.co.uk/frameworks/barlesque/3.22.55/orb/4/script/orb/api.min.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.14": {
+        "url": "http://static.bbci.co.uk/wwhp/1.128.0/modules/vendor/bower/modernizr/modernizr.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.7": {
+        "url": "http://static.bbci.co.uk/frameworks/barlesque/3.22.55/orb/4/script/orb/font.min.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.9": {
+        "url": "http://static.bbc.co.uk/id/0.37.24/style/id-cta.css",
+        "method": "GET",
+        "type": "Stylesheet",
+        "headers": {
+            "Accept": "text/css,*/*;q=0.1",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbc.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.10": {
+        "url": "http://static.bbc.co.uk/id/0.37.24/style/id-cta-v5.css",
+        "method": "GET",
+        "type": "Stylesheet",
+        "headers": {
+            "Accept": "text/css,*/*;q=0.1",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbc.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.11": {
+        "url": "http://static.bbc.co.uk/id/0.37.24/modules/idcta/dist/idcta-1.min.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbc.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.30": {
+        "url": "http://static.bbci.co.uk/frameworks/barlesque/3.22.55/orb/4/script/orb.min.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.15": {
+        "url": "http://static.bbci.co.uk/frameworks/barlesque/3.22.55/orb/4/img/bbc-blocks-light.png",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.3": {
+        "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            ":path": "/frameworks/requirejs/lib.js",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "*/*",
+            "referer": "http://www.bbc.com/",
+            ":authority": "static.bbc.co.uk",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.16": {
+        "url": "http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/2F87/production/_103176121_048855483-2.jpg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "ichef.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.17": {
+        "url": "http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/8B67/production/_102678653_mccain_976getty.jpg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "ichef.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.18": {
+        "url": "http://ichef.bbci.co.uk/images/ic/1728x972/p06j3d09.jpg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "ichef.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.19": {
+        "url": "http://ichef.bbci.co.uk/wwhp/144/ibroadcast/images/live/p0/6j/c4/p06jc4n3.jpg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "ichef.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.20": {
+        "url": "http://ichef.bbci.co.uk/wwhp/144/ibroadcast/images/live/p0/6h/my/p06hmyfd.jpg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "ichef.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.21": {
+        "url": "http://static.bbci.co.uk/weather/0.5.284/images/icons/individual_56_icons/en_on_light_bg/15.gif",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.22": {
+        "url": "http://static.bbci.co.uk/weather/0.5.284/images/icons/individual_56_icons/en_on_light_bg/7.gif",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.23": {
+        "url": "http://static.bbci.co.uk/weather/0.5.284/images/icons/individual_56_icons/en_on_light_bg/3.gif",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.24": {
+        "url": "http://static.bbci.co.uk/weather/0.5.284/images/icons/individual_56_icons/en_on_light_bg/12.gif",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.25": {
+        "url": "http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/FBB9/production/_103114446_bpotywinner1.jpg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "ichef.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.26": {
+        "url": "http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/16005/production/_102671109_9-stepsinternationalschool-nbcrop.jpg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "ichef.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.27": {
+        "url": "http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/0BA4/production/_103108920_mdrum_rich_meets_poor-7.jpg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "ichef.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.28": {
+        "url": "http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/162E1/production/_103094809_9fd0c875-8270-4a9d-b1a6-b91234e1538e.jpg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "ichef.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.29": {
+        "url": "http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/15172/production/_103068368_048707276-1.jpg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "ichef.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.37": {
+        "url": "http://nav.files.bbci.co.uk/nav-analytics/0.1.0-98/js/istats-1.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "nav.files.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.35": {
+        "url": "http://www.bbc.com/wwscripts/flag",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Cookie": "BBC-UID=a1da250eeb70442d831701e130323ac651a20b6e1f8612ed0ac2e9bcddd68c180Mozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Ubuntu%20Chromium%2F68.0.",
+            "Host": "www.bbc.com",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.38": {
+        "url": "http://static.bbci.co.uk/bbcdotcom/1.89.0/script/dist/bbcdotcom.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "Intervention": "<https://www.chromestatus.com/feature/5718547946799104>; level=\"warning\""
+        }
+    },
+    "1000010945.62": {
+        "url": "http://static.bbci.co.uk/bbcdotcom/1.89.0/style/dist/bbcdotcom-async.css",
+        "method": "GET",
+        "type": "Stylesheet",
+        "headers": {
+            "Accept": "text/css,*/*;q=0.1",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.63": {
+        "url": "http://static.bbci.co.uk/bbcdotcom/1.89.0/script/vendor/edr/edr.min.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.42": {
+        "url": "http://tags.crwdcntrl.net/c/10816/cc.js?ns=10816",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Cookie": "_cc_dc=0; _cc_id=bcf1a53aff80acf40cc56eec068a4897; _cc_cc=\"ACZ4nO2WSU%2BTURSGLxhDUhGMogyJ0QQ3LowYBvEfGBNx406jwYYu%2FQ2CYANU0bYyGmgZZBYwlRktaJECUgYBMVQmqYUyiEIBASsJvXLes3RtF815%2Bp7znnvPd3O%2FitN3lKoL8dGR8SpVbES8UhUVoVRGxyQkKCNiYuOjYi9dFLufG3dHVC9Hlz2BQn4ym9vPnWoLM33yeAI9Pj79Z2WUp2zx7EUrJ8u80dbVHm9kPDPvjdyqEW%2B0pJS1Hbdk5LgiXYoi5W9ZN6WLPUT%2BVuxn3t6LxgPWvKr5uqzNviZ2v5%2FETHi59LzsOX9HOlTESXX0tvT6miDzJv7mZZ2XeQ%2FC3d5o%2B4BUB4Kkqr0so804ud6JcBmJpv9j%2B5exFXoqgoiDKGD8fDr%2FOOUSxj25v0IpO1v0UD%2FLuHdTBzzE9BX9MHDejCGYso3pSVNWYMcM8oylFXiN6aZp9N%2FKbQfdqHkPbGDs%2FG6D%2BtIdG8xn6V4d5C8y%2FpLqCoH99aUoKDcxnmBsZzzGOK8f9z%2FAdJtTc5iyhenakVyob2Z6ehM%2BP631Fczjc3Mt6GOp%2BdAvrXAV9LfaNDhPdh0%2B71k27%2FeVT0H%2FuYHn6wdj02P0GxrE%2FVgdeJ6ThvF5FlVjP41zEdZTx87rTGehP7kLxDTjpV5kc%2FmrUGD1x2OUjR2Yv%2FpCCzzwAfXR5Q4%2FcssJW8OKgtwdYqpvI4TcOWK78eMRcmeIh1tGf3JjifuVPUE0P5FxMsvX1E4GUj%2B1LjuE9n%2Fj6gumXJTdDX6OGqw3M%2FZUYH9T5uwxyqVa7GfVGkDP0bgU1G8rxaXw3ef9G1XMrWqh8n6GAyaXodaB%2Fm7gO%2BxsWJ0L%2BnjiMEzaasKd6VNwZaYsXPlkVt5Bcs%2BL%2BvpB8Gtnk1ytQv%2Bk1jR%2FWv%2FbMg37cTO2Tzqgv%2F15Bvh1VbeE0f2WpuL6O%2FRTUN9X9RLW119cfILyDuv%2FZL0njLwJRVPX3CHyBhX6zpow8hYX7uWSAKrvtPZCfVfZw2D6JuxOblNQzml3HSX%2FFETJIxfo8xbU1bv79d3XycnpTq7xo5UW40IQ%2BVcg1sorgYeKkOs7d3dOOHPdGUr5J%2FP7xnjxLfoVr2G93Y1sa8H8bOanY5zO%2BPU2%2Bj17gX61BsyvM6DemF6F%2B2fcWYX5Hub3wIz6ApungfVrKETufjoH6%2B9i89YUYL8S5vcH%2FVMrlg%3D%3D\"; _cc_aud=\"ABR4nGNgYGCIzruWxgADVgzMKx%2BCWbMWgkjmxSIgijHKEkKZgOXu%2BUF4GmAl89Uggo4gkkViB1hw5SOwINcMiEpRMPWwHiy39xyIYut5DlZyvg4s6LQERLF%2B5AHLlWlCKDUIpQrW3gQxWv4zmDfbE6w9aCdYn4Y82PZ2V7CgUztYSWggWMP2ErCSD4oQCqySTQSsnTWzCEIVgvWJngFTSfvBlGIQJAjATmKtAfuPwc0GrF1UDmzDtFowtTEdLHdUHUwtaoW4hQ%2FMa%2FoK1v4TTDEqcIJ5MRA%2FnPEAU9t2gSim3ZPBGi6vB%2FN2OoB5db%2BBBADrajnu\"",
+            "Host": "tags.crwdcntrl.net",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.67": {
+        "url": "http://nav.files.bbci.co.uk/searchbox/1.0.0-137/img/gel-icon-search-dark.svg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://nav.files.bbci.co.uk/searchbox/1.0.0-137/css/main.css",
+            "Host": "nav.files.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.68": {
+        "url": "http://static.bbci.co.uk/frameworks/barlesque/3.22.55/orb/4/img/orb-sprite.gif",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://static.bbci.co.uk/frameworks/barlesque/3.22.55/orb/4/style/orb.min.css",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.40": {
+        "url": "https://cdn.optimizely.com/public/4621041136/s/bbccom_prod.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            ":path": "/public/4621041136/s/bbccom_prod.js",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "*/*",
+            "referer": "http://www.bbc.com/",
+            ":authority": "cdn.optimizely.com",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.65": {
+        "url": "http://static.bbc.co.uk/id/0.37.24/svg/icon-sprite.svg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://static.bbc.co.uk/id/0.37.24/style/id-cta.css",
+            "Host": "static.bbc.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.60": {
+        "url": "http://static.bbci.co.uk/wwhp/1.128.0/fonts/wwhp-icons.woff",
+        "method": "GET",
+        "type": "Font",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Origin": "http://www.bbc.com",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://static.bbci.co.uk/wwhp/1.128.0/responsive/css/wwhp.min.css",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.66": {
+        "url": "https://static.bbc.co.uk/wwhp/1.128.0/modules/compiled.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            ":path": "/wwhp/1.128.0/modules/compiled.js",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "*/*",
+            "referer": "http://www.bbc.com/",
+            ":authority": "static.bbc.co.uk",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.74": {
+        "url": "http://static.bbc.co.uk/id/0.37.24/modules/idcta/statusbar.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbc.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.97": {
+        "url": "http://www.bbc.co.uk/idcta/translations?callback&locale=en-GB",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "www.bbc.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "7B20EA06AFCA65E5E18EB509B824586A": {
+        "url": "https://a4621041136.cdn.optimizely.com/client_storage/a4621041136.html",
+        "method": "GET",
+        "type": "Document",
+        "headers": {
+            "Host": "a4621041136.cdn.optimizely.com",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+            "Referer": "http://www.bbc.com/",
+            "Accept-Encoding": "gzip, deflate"
+        }
+    },
+    "1000010945.150": {
+        "url": "http://mybbc.files.bbci.co.uk/notification-ui/3.8.4/js/NotificationsMain.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "mybbc.files.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.142": {
+        "url": "http://me-cdn.effectivemeasure.net/em.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Cookie": "t=true; vt=1a14380472d9fd1cd09c950851345b6edc09c4a2b3-902481215b6ede79",
+            "Host": "me-cdn.effectivemeasure.net",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.151": {
+        "url": "https://static.bbc.co.uk/frameworks/jquery/0.4.1/sharedmodules/jquery-1.9.1.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            ":path": "/frameworks/jquery/0.4.1/sharedmodules/jquery-1.9.1.js",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "*/*",
+            "referer": "http://www.bbc.com/",
+            ":authority": "static.bbc.co.uk",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.164": {
+        "url": "http://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html",
+        "method": "GET",
+        "type": "Other",
+        "headers": {
+            "Accept": "*/*",
+            "Purpose": "prefetch",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "tpc.googlesyndication.com",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "6C86E06F6C6ABB3B49A445A7B0D7B8F4": {
+        "url": "http://s.effectivemeasure.net/html/frame_2.3.7.html",
+        "method": "GET",
+        "type": "Document",
+        "headers": {
+            "Host": "s.effectivemeasure.net",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+            "Referer": "http://www.bbc.com/",
+            "Accept-Encoding": "gzip, deflate",
+            "Cookie": "t=true; vt=1a14380472d9fd1cd09c950851345b6edc09c4a2b3-902481215b6ede79"
+        }
+    },
+    "1000010945.228": {
+        "url": "http://ichef.bbci.co.uk/wwhp/400/cpsprodpb/8B67/production/_102678653_mccain_976getty.jpg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "ichef.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.227": {
+        "url": "http://ichef.bbci.co.uk/wwhp/800/cpsprodpb/2F87/production/_103176121_048855483-2.jpg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "ichef.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.225": {
+        "url": "http://emp.bbci.co.uk/emp/bump-3/bump-3.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "emp.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.231": {
+        "url": "http://ichef.bbci.co.uk/wwhp/800/cpsprodpb/856D/production/_103175143_p06jdb2t.jpg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "ichef.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.233": {
+        "url": "http://static.bbci.co.uk/bbcdotcom/1.89.0/script/av/emp/adverts.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.234": {
+        "url": "http://static.bbci.co.uk/bbcdotcom/1.89.0/script/av/emp/analytics.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "static.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "48A1C1ED759CEBFC0B7F62CE3A94B47D": {
+        "url": "http://emp.bbc.com/emp/SMPj/2.21.14/iframe.html",
+        "method": "GET",
+        "type": "Document",
+        "headers": {
+            "Host": "emp.bbc.com",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+            "Referer": "http://www.bbc.com/",
+            "Accept-Encoding": "gzip, deflate",
+            "Cookie": "BBC-UID=a1da250eeb70442d831701e130323ac651a20b6e1f8612ed0ac2e9bcddd68c180Mozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Ubuntu%20Chromium%2F68.0.; test_group=b; optimizelyEndUserId=oeu1535268992950r0.8821238252796131; ckpf_sscid=a7f55368-ccf1-45f2-ae11-a37e39e44d28; _em_vt=c84766e9dc1f47eaae3c950851345b6edc09c4a2b3-902481215b825881; _em_v=e66dd084ab62fa803e2602d3d44b5b825881b6c832-097802085b825881"
+        }
+    },
+    "F483EAD8AC06011507223FB280706B72": {
+        "url": "http://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html",
+        "method": "GET",
+        "type": "Document"
+    },
+    "1000010945.238": {
+        "url": "http://pagead2.googlesyndication.com/pagead/osd.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "pagead2.googlesyndication.com",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.232": {
+        "url": "http://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-11.0.2.min.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Host": "mybbc-analytics.files.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.240": {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20180820/r20110914/activeview/osd_listener.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            ":path": "/pagead/js/r20180820/r20110914/activeview/osd_listener.js",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "*/*",
+            "referer": "http://www.bbc.com/",
+            ":authority": "tpc.googlesyndication.com",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.250": {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20180820/r20110914/activeview/osd_listener.js",
+        "method": "GET",
+        "type": "Script"
+    },
+    "1000010945.249": {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20180820/r20110914/client/ext/m_window_focus_non_hydra.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            ":path": "/pagead/js/r20180820/r20110914/client/ext/m_window_focus_non_hydra.js",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "*/*",
+            "referer": "http://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html",
+            ":authority": "tpc.googlesyndication.com",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.251": {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20180820/r20110914/client/ext/m_qs_click_protection.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            ":path": "/pagead/js/r20180820/r20110914/client/ext/m_qs_click_protection.js",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "*/*",
+            "referer": "http://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html",
+            ":authority": "tpc.googlesyndication.com",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.253": {
+        "url": "https://tpc.googlesyndication.com/safeframe/1-0-29/js/ext.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            ":path": "/safeframe/1-0-29/js/ext.js",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "*/*",
+            "referer": "http://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html",
+            ":authority": "tpc.googlesyndication.com",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.247": {
+        "url": "https://static.bbci.co.uk/frameworks/requirejs/0.12.1/sharedmodules/require.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            ":path": "/frameworks/requirejs/0.12.1/sharedmodules/require.js",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "*/*",
+            "referer": "http://emp.bbc.com/emp/SMPj/2.21.14/iframe.html",
+            ":authority": "static.bbci.co.uk",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.239": {
+        "url": "http://ib.3lift.com/ttj?inv_code=BBCHomepage_infeed_home",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Cookie": "tluid=6352541232086598622; tlcookieable=1",
+            "Host": "ib.3lift.com",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.260": {
+        "url": "http://ib.3lift.com/rev/c8c8d4c637cc372b3976aa808f398a789fb263c1/dist/bundle.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://www.bbc.com/",
+            "Cookie": "tluid=6352541232086598622; tlcookieable=1",
+            "Host": "ib.3lift.com",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "F8C6768DBFD118CECAC276C4490916A2": {
+        "url": "http://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html",
+        "method": "GET",
+        "type": "Document"
+    },
+    "1000010945.284": {
+        "url": "http://emp.bbc.com/emp/assets/2.0.22/svgicons.svg",
+        "method": "GET",
+        "type": "XHR",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://emp.bbc.com/emp/SMPj/2.21.14/iframe.html",
+            "Cookie": "BBC-UID=a1da250eeb70442d831701e130323ac651a20b6e1f8612ed0ac2e9bcddd68c180Mozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Ubuntu%20Chromium%2F68.0.; test_group=b; optimizelyEndUserId=oeu1535268992950r0.8821238252796131; ckpf_sscid=a7f55368-ccf1-45f2-ae11-a37e39e44d28; _em_vt=c84766e9dc1f47eaae3c950851345b6edc09c4a2b3-902481215b825881; _em_v=e66dd084ab62fa803e2602d3d44b5b825881b6c832-097802085b825881; __gads=ID=0cb7cd9a6d301922:T=1535268993:S=ALNI_Ma98z4Lj9WRU2T2nIX03G1N2OEuCw; ckpf_sa_labels_persist={}",
+            "Host": "emp.bbc.com",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.285": {
+        "url": "http://emp.bbci.co.uk/emp/assets/2.0.22/cta_play.png",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://emp.bbc.com/emp/SMPj/2.21.14/iframe.html",
+            "Host": "emp.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.286": {
+        "url": "http://emp.bbci.co.uk/plugins/dfpAdsHTML/3.24.4/js/dfpAds.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://emp.bbc.com/emp/SMPj/2.21.14/iframe.html",
+            "Host": "emp.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.272": {
+        "url": "https://gel.files.bbci.co.uk/r2.302/BBCReithSans_W_Rg.woff2",
+        "method": "GET",
+        "type": "Font",
+        "headers": {
+            ":path": "/r2.302/BBCReithSans_W_Rg.woff2",
+            "origin": "http://emp.bbc.com",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "*/*",
+            "referer": "http://emp.bbc.com/emp/SMPj/2.21.14/iframe.html",
+            ":authority": "gel.files.bbci.co.uk",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.287": {
+        "url": "https://tpc.googlesyndication.com/pagead/gadgets/html5/ssrh.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            ":path": "/pagead/gadgets/html5/ssrh.js",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "*/*",
+            "referer": "http://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html",
+            ":authority": "tpc.googlesyndication.com",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.295": {
+        "url": "http://emp.bbci.co.uk/plugins/dfpAdsHTML/3.24.4/css/dfpAds.css",
+        "method": "GET",
+        "type": "Stylesheet",
+        "headers": {
+            "Accept": "text/css,*/*;q=0.1",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "http://emp.bbc.com/emp/SMPj/2.21.14/iframe.html",
+            "Host": "emp.bbci.co.uk",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.290": {
+        "url": "https://static.criteo.net/flash/icon/nai_big.png",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://ads.us.criteo.com/delivery/r/afr.php?did=5b8258818f8b6b10ab2351d2b9c97e00&z=W4JYgQAGx9cKaYxUAAHbspdCl_C1omzdUL9xew&u=%7CWkPTPoxm6iVP6%2F8dl%2BTKW%2F1VRCitt3Uv4J%2BsmwDI0I8%3D%7C&c1=mifvEK3HXnnTB3gFVOxCxz8kQqN42XL3omuHlsbPhRVJlV7dP4rCnUJkbUVOQ4QnjwtCSA5G2kBP_0F8_r74GnRk0xluV-nHiel5bpbqBWWjDpusyEHR1bimv1fjY9i2y2KKoklRxFSWy5UZ4PVJ21FmJGRnSNa_xXmC7ouWBjee2kpU42z4JR7n8f3XhM-oMNzoVjhESVeciyQTtWvD_a5-WO-TQJSdWbuUePL_t4Zm449p40fcS0cfxW9pf0PAWeD0lr5rHikhquk0YaZVHrZWTsqtq0Fo6SIgAY8B8xi6H_WXw-Vq2TXlDrnEqRpxV0klIRkR4E0LMjEj_9S_LpzB34fsxgnMOp_baQ3ggSGxazPRpVNL6YtmjDdPxNLoY4TnFr99Ap1vp8aS4byB4Md6eJ_kCH2s&ct0=https://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCRcgwgViCW9ePG9SYpgOyt4cY7uWY8E3yoamqdMCNtwEQASAAYMnOxYvEpOAQggEXY2EtcHViLTI4NTUwMzQ0ODY4MjA2MjGgAazd_ugDyAEJ4AIAqAMBqgTKAU_QmK7MK6GG7b6lJ57yMyzMXLiMbP5UuzesWVwzyxN7HBGV6NC6yjI3d9Dg8MUuU3mlgIvPqFYWsil7Hw4_kH6dVG_MLc8Gof4WacyEIRyP7kzRsUrA9uxkTPw8QigeZOKHMHDDZxzzHk5GcqA1MSbLaZz9ymPSVMHJtWtFfU66TICdJI12EL-oDKs-Qv3Y3Sxrn-38eGwXV8GRSF_5YXrRHURk5bBCOuu99Q8lDv7viTFVpzD1uJ1dzj_02kwq-lQ-GyCGO7ahxlbgBAGABo-it9jStvKRwAGgBiGoB6a-G6gH2csbqAfPzBvYBwDSCAUIgGEQAQ%26num%3D1%26sig%3DAOD64_3mxhtAjum2Gr7yPhNvGoOaOYcDKw%26client%3Dca-pub-2855034486820621%26adurl%3D",
+            "Host": "static.criteo.net",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.289": {
+        "url": "https://static.criteo.net/flash/icon/nai_small.png",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://ads.us.criteo.com/delivery/r/afr.php?did=5b8258818f8b6b10ab2351d2b9c97e00&z=W4JYgQAGx9cKaYxUAAHbspdCl_C1omzdUL9xew&u=%7CWkPTPoxm6iVP6%2F8dl%2BTKW%2F1VRCitt3Uv4J%2BsmwDI0I8%3D%7C&c1=mifvEK3HXnnTB3gFVOxCxz8kQqN42XL3omuHlsbPhRVJlV7dP4rCnUJkbUVOQ4QnjwtCSA5G2kBP_0F8_r74GnRk0xluV-nHiel5bpbqBWWjDpusyEHR1bimv1fjY9i2y2KKoklRxFSWy5UZ4PVJ21FmJGRnSNa_xXmC7ouWBjee2kpU42z4JR7n8f3XhM-oMNzoVjhESVeciyQTtWvD_a5-WO-TQJSdWbuUePL_t4Zm449p40fcS0cfxW9pf0PAWeD0lr5rHikhquk0YaZVHrZWTsqtq0Fo6SIgAY8B8xi6H_WXw-Vq2TXlDrnEqRpxV0klIRkR4E0LMjEj_9S_LpzB34fsxgnMOp_baQ3ggSGxazPRpVNL6YtmjDdPxNLoY4TnFr99Ap1vp8aS4byB4Md6eJ_kCH2s&ct0=https://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCRcgwgViCW9ePG9SYpgOyt4cY7uWY8E3yoamqdMCNtwEQASAAYMnOxYvEpOAQggEXY2EtcHViLTI4NTUwMzQ0ODY4MjA2MjGgAazd_ugDyAEJ4AIAqAMBqgTKAU_QmK7MK6GG7b6lJ57yMyzMXLiMbP5UuzesWVwzyxN7HBGV6NC6yjI3d9Dg8MUuU3mlgIvPqFYWsil7Hw4_kH6dVG_MLc8Gof4WacyEIRyP7kzRsUrA9uxkTPw8QigeZOKHMHDDZxzzHk5GcqA1MSbLaZz9ymPSVMHJtWtFfU66TICdJI12EL-oDKs-Qv3Y3Sxrn-38eGwXV8GRSF_5YXrRHURk5bBCOuu99Q8lDv7viTFVpzD1uJ1dzj_02kwq-lQ-GyCGO7ahxlbgBAGABo-it9jStvKRwAGgBiGoB6a-G6gH2csbqAfPzBvYBwDSCAUIgGEQAQ%26num%3D1%26sig%3DAOD64_3mxhtAjum2Gr7yPhNvGoOaOYcDKw%26client%3Dca-pub-2855034486820621%26adurl%3D",
+            "Host": "static.criteo.net",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.300": {
+        "url": "https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            ":path": "/ajax/libs/webfont/1.6.26/webfont.js",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "*/*",
+            "referer": "https://ads.us.criteo.com/delivery/r/afr.php?did=5b8258818f8b6b10ab2351d2b9c97e00&z=W4JYgQAGx9cKaYxUAAHbspdCl_C1omzdUL9xew&u=%7CWkPTPoxm6iVP6%2F8dl%2BTKW%2F1VRCitt3Uv4J%2BsmwDI0I8%3D%7C&c1=mifvEK3HXnnTB3gFVOxCxz8kQqN42XL3omuHlsbPhRVJlV7dP4rCnUJkbUVOQ4QnjwtCSA5G2kBP_0F8_r74GnRk0xluV-nHiel5bpbqBWWjDpusyEHR1bimv1fjY9i2y2KKoklRxFSWy5UZ4PVJ21FmJGRnSNa_xXmC7ouWBjee2kpU42z4JR7n8f3XhM-oMNzoVjhESVeciyQTtWvD_a5-WO-TQJSdWbuUePL_t4Zm449p40fcS0cfxW9pf0PAWeD0lr5rHikhquk0YaZVHrZWTsqtq0Fo6SIgAY8B8xi6H_WXw-Vq2TXlDrnEqRpxV0klIRkR4E0LMjEj_9S_LpzB34fsxgnMOp_baQ3ggSGxazPRpVNL6YtmjDdPxNLoY4TnFr99Ap1vp8aS4byB4Md6eJ_kCH2s&ct0=https://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCRcgwgViCW9ePG9SYpgOyt4cY7uWY8E3yoamqdMCNtwEQASAAYMnOxYvEpOAQggEXY2EtcHViLTI4NTUwMzQ0ODY4MjA2MjGgAazd_ugDyAEJ4AIAqAMBqgTKAU_QmK7MK6GG7b6lJ57yMyzMXLiMbP5UuzesWVwzyxN7HBGV6NC6yjI3d9Dg8MUuU3mlgIvPqFYWsil7Hw4_kH6dVG_MLc8Gof4WacyEIRyP7kzRsUrA9uxkTPw8QigeZOKHMHDDZxzzHk5GcqA1MSbLaZz9ymPSVMHJtWtFfU66TICdJI12EL-oDKs-Qv3Y3Sxrn-38eGwXV8GRSF_5YXrRHURk5bBCOuu99Q8lDv7viTFVpzD1uJ1dzj_02kwq-lQ-GyCGO7ahxlbgBAGABo-it9jStvKRwAGgBiGoB6a-G6gH2csbqAfPzBvYBwDSCAUIgGEQAQ%26num%3D1%26sig%3DAOD64_3mxhtAjum2Gr7yPhNvGoOaOYcDKw%26client%3Dca-pub-2855034486820621%26adurl%3D",
+            ":authority": "ajax.googleapis.com",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.299": {
+        "url": "https://static.criteo.net/design/dt/1f258a2e49654363b4057a2014fae59f_uniqloregular.woff",
+        "method": "GET",
+        "type": "Font",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Origin": "https://ads.us.criteo.com",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://ads.us.criteo.com/delivery/r/afr.php?did=5b8258818f8b6b10ab2351d2b9c97e00&z=W4JYgQAGx9cKaYxUAAHbspdCl_C1omzdUL9xew&u=%7CWkPTPoxm6iVP6%2F8dl%2BTKW%2F1VRCitt3Uv4J%2BsmwDI0I8%3D%7C&c1=mifvEK3HXnnTB3gFVOxCxz8kQqN42XL3omuHlsbPhRVJlV7dP4rCnUJkbUVOQ4QnjwtCSA5G2kBP_0F8_r74GnRk0xluV-nHiel5bpbqBWWjDpusyEHR1bimv1fjY9i2y2KKoklRxFSWy5UZ4PVJ21FmJGRnSNa_xXmC7ouWBjee2kpU42z4JR7n8f3XhM-oMNzoVjhESVeciyQTtWvD_a5-WO-TQJSdWbuUePL_t4Zm449p40fcS0cfxW9pf0PAWeD0lr5rHikhquk0YaZVHrZWTsqtq0Fo6SIgAY8B8xi6H_WXw-Vq2TXlDrnEqRpxV0klIRkR4E0LMjEj_9S_LpzB34fsxgnMOp_baQ3ggSGxazPRpVNL6YtmjDdPxNLoY4TnFr99Ap1vp8aS4byB4Md6eJ_kCH2s&ct0=https://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCRcgwgViCW9ePG9SYpgOyt4cY7uWY8E3yoamqdMCNtwEQASAAYMnOxYvEpOAQggEXY2EtcHViLTI4NTUwMzQ0ODY4MjA2MjGgAazd_ugDyAEJ4AIAqAMBqgTKAU_QmK7MK6GG7b6lJ57yMyzMXLiMbP5UuzesWVwzyxN7HBGV6NC6yjI3d9Dg8MUuU3mlgIvPqFYWsil7Hw4_kH6dVG_MLc8Gof4WacyEIRyP7kzRsUrA9uxkTPw8QigeZOKHMHDDZxzzHk5GcqA1MSbLaZz9ymPSVMHJtWtFfU66TICdJI12EL-oDKs-Qv3Y3Sxrn-38eGwXV8GRSF_5YXrRHURk5bBCOuu99Q8lDv7viTFVpzD1uJ1dzj_02kwq-lQ-GyCGO7ahxlbgBAGABo-it9jStvKRwAGgBiGoB6a-G6gH2csbqAfPzBvYBwDSCAUIgGEQAQ%26num%3D1%26sig%3DAOD64_3mxhtAjum2Gr7yPhNvGoOaOYcDKw%26client%3Dca-pub-2855034486820621%26adurl%3D",
+            "Host": "static.criteo.net",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.305": {
+        "url": "https://static.criteo.net/design/dt/11454/180220/e2d425d0471746759d589e7b5aa2697e_cpn_300x600_1.jpg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://ads.us.criteo.com/delivery/r/afr.php?did=5b8258818f8b6b10ab2351d2b9c97e00&z=W4JYgQAGx9cKaYxUAAHbspdCl_C1omzdUL9xew&u=%7CWkPTPoxm6iVP6%2F8dl%2BTKW%2F1VRCitt3Uv4J%2BsmwDI0I8%3D%7C&c1=mifvEK3HXnnTB3gFVOxCxz8kQqN42XL3omuHlsbPhRVJlV7dP4rCnUJkbUVOQ4QnjwtCSA5G2kBP_0F8_r74GnRk0xluV-nHiel5bpbqBWWjDpusyEHR1bimv1fjY9i2y2KKoklRxFSWy5UZ4PVJ21FmJGRnSNa_xXmC7ouWBjee2kpU42z4JR7n8f3XhM-oMNzoVjhESVeciyQTtWvD_a5-WO-TQJSdWbuUePL_t4Zm449p40fcS0cfxW9pf0PAWeD0lr5rHikhquk0YaZVHrZWTsqtq0Fo6SIgAY8B8xi6H_WXw-Vq2TXlDrnEqRpxV0klIRkR4E0LMjEj_9S_LpzB34fsxgnMOp_baQ3ggSGxazPRpVNL6YtmjDdPxNLoY4TnFr99Ap1vp8aS4byB4Md6eJ_kCH2s&ct0=https://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCRcgwgViCW9ePG9SYpgOyt4cY7uWY8E3yoamqdMCNtwEQASAAYMnOxYvEpOAQggEXY2EtcHViLTI4NTUwMzQ0ODY4MjA2MjGgAazd_ugDyAEJ4AIAqAMBqgTKAU_QmK7MK6GG7b6lJ57yMyzMXLiMbP5UuzesWVwzyxN7HBGV6NC6yjI3d9Dg8MUuU3mlgIvPqFYWsil7Hw4_kH6dVG_MLc8Gof4WacyEIRyP7kzRsUrA9uxkTPw8QigeZOKHMHDDZxzzHk5GcqA1MSbLaZz9ymPSVMHJtWtFfU66TICdJI12EL-oDKs-Qv3Y3Sxrn-38eGwXV8GRSF_5YXrRHURk5bBCOuu99Q8lDv7viTFVpzD1uJ1dzj_02kwq-lQ-GyCGO7ahxlbgBAGABo-it9jStvKRwAGgBiGoB6a-G6gH2csbqAfPzBvYBwDSCAUIgGEQAQ%26num%3D1%26sig%3DAOD64_3mxhtAjum2Gr7yPhNvGoOaOYcDKw%26client%3Dca-pub-2855034486820621%26adurl%3D",
+            "Host": "static.criteo.net",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.308": {
+        "url": "https://static.criteo.net/design/dt/11454/180809/be8c41de692643c2a28b1cce11987a4c_cta_view_now.png",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://ads.us.criteo.com/delivery/r/afr.php?did=5b8258818f8b6b10ab2351d2b9c97e00&z=W4JYgQAGx9cKaYxUAAHbspdCl_C1omzdUL9xew&u=%7CWkPTPoxm6iVP6%2F8dl%2BTKW%2F1VRCitt3Uv4J%2BsmwDI0I8%3D%7C&c1=mifvEK3HXnnTB3gFVOxCxz8kQqN42XL3omuHlsbPhRVJlV7dP4rCnUJkbUVOQ4QnjwtCSA5G2kBP_0F8_r74GnRk0xluV-nHiel5bpbqBWWjDpusyEHR1bimv1fjY9i2y2KKoklRxFSWy5UZ4PVJ21FmJGRnSNa_xXmC7ouWBjee2kpU42z4JR7n8f3XhM-oMNzoVjhESVeciyQTtWvD_a5-WO-TQJSdWbuUePL_t4Zm449p40fcS0cfxW9pf0PAWeD0lr5rHikhquk0YaZVHrZWTsqtq0Fo6SIgAY8B8xi6H_WXw-Vq2TXlDrnEqRpxV0klIRkR4E0LMjEj_9S_LpzB34fsxgnMOp_baQ3ggSGxazPRpVNL6YtmjDdPxNLoY4TnFr99Ap1vp8aS4byB4Md6eJ_kCH2s&ct0=https://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCRcgwgViCW9ePG9SYpgOyt4cY7uWY8E3yoamqdMCNtwEQASAAYMnOxYvEpOAQggEXY2EtcHViLTI4NTUwMzQ0ODY4MjA2MjGgAazd_ugDyAEJ4AIAqAMBqgTKAU_QmK7MK6GG7b6lJ57yMyzMXLiMbP5UuzesWVwzyxN7HBGV6NC6yjI3d9Dg8MUuU3mlgIvPqFYWsil7Hw4_kH6dVG_MLc8Gof4WacyEIRyP7kzRsUrA9uxkTPw8QigeZOKHMHDDZxzzHk5GcqA1MSbLaZz9ymPSVMHJtWtFfU66TICdJI12EL-oDKs-Qv3Y3Sxrn-38eGwXV8GRSF_5YXrRHURk5bBCOuu99Q8lDv7viTFVpzD1uJ1dzj_02kwq-lQ-GyCGO7ahxlbgBAGABo-it9jStvKRwAGgBiGoB6a-G6gH2csbqAfPzBvYBwDSCAUIgGEQAQ%26num%3D1%26sig%3DAOD64_3mxhtAjum2Gr7yPhNvGoOaOYcDKw%26client%3Dca-pub-2855034486820621%26adurl%3D",
+            "Host": "static.criteo.net",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.323": {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20180820/r20110914/client/ext/m_window_focus_non_hydra.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            ":path": "/pagead/js/r20180820/r20110914/client/ext/m_window_focus_non_hydra.js",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "*/*",
+            "referer": "http://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html",
+            ":authority": "tpc.googlesyndication.com",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.324": {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20180820/r20110914/activeview/osd_listener.js",
+        "method": "GET",
+        "type": "Script"
+    },
+    "1000010945.325": {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20180820/r20110914/client/ext/m_qs_click_protection.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            ":path": "/pagead/js/r20180820/r20110914/client/ext/m_qs_click_protection.js",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "*/*",
+            "referer": "http://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html",
+            ":authority": "tpc.googlesyndication.com",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "84741BA8DFA331E8847F82F5331DAE03": {
+        "url": "http://imasdk.googleapis.com/js/core/bridge3.229.1_en.html",
+        "method": "GET",
+        "type": "Document",
+        "headers": {
+            "Host": "imasdk.googleapis.com",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+            "Referer": "http://emp.bbc.com/emp/SMPj/2.21.14/iframe.html",
+            "Accept-Encoding": "gzip, deflate"
+        }
+    },
+    "1000010945.322": {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20180820/r20110914/abg_lite.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            ":path": "/pagead/js/r20180820/r20110914/abg_lite.js",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "*/*",
+            "referer": "http://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html",
+            ":authority": "tpc.googlesyndication.com",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.337": {
+        "url": "https://tpc.googlesyndication.com/simgad/10124421203004885384",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            ":path": "/simgad/10124421203004885384",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "referer": "http://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html",
+            ":authority": "tpc.googlesyndication.com",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.319": {
+        "url": "https://static.doubleclick.net/dynamic/5/65138550/15556447662364708998_7944419421763463315.jpeg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            ":path": "/dynamic/5/65138550/15556447662364708998_7944419421763463315.jpeg",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "referer": "http://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html",
+            ":authority": "static.doubleclick.net",
+            "cookie": "IDE=AHWqTUl_quqGluOi8MFkQcmKXueYlaXwUk_TIlQ3W1csoD6oCVlTqJHpAA; DSID=NO_DATA",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.307": {
+        "url": "https://pix.us.criteo.net/img/img?c=1&h=400&m=0&partner=11454&q=80&r=0&u=https%3A%2F%2Funiqlo.scene7.com%2Fis%2Fimage%2FUNIQLO%2Fgoods_66_406456&v=3&w=400&s=0qf7W8BQcj3LIITsbWMECG58",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://ads.us.criteo.com/delivery/r/afr.php?did=5b8258818f8b6b10ab2351d2b9c97e00&z=W4JYgQAGx9cKaYxUAAHbspdCl_C1omzdUL9xew&u=%7CWkPTPoxm6iVP6%2F8dl%2BTKW%2F1VRCitt3Uv4J%2BsmwDI0I8%3D%7C&c1=mifvEK3HXnnTB3gFVOxCxz8kQqN42XL3omuHlsbPhRVJlV7dP4rCnUJkbUVOQ4QnjwtCSA5G2kBP_0F8_r74GnRk0xluV-nHiel5bpbqBWWjDpusyEHR1bimv1fjY9i2y2KKoklRxFSWy5UZ4PVJ21FmJGRnSNa_xXmC7ouWBjee2kpU42z4JR7n8f3XhM-oMNzoVjhESVeciyQTtWvD_a5-WO-TQJSdWbuUePL_t4Zm449p40fcS0cfxW9pf0PAWeD0lr5rHikhquk0YaZVHrZWTsqtq0Fo6SIgAY8B8xi6H_WXw-Vq2TXlDrnEqRpxV0klIRkR4E0LMjEj_9S_LpzB34fsxgnMOp_baQ3ggSGxazPRpVNL6YtmjDdPxNLoY4TnFr99Ap1vp8aS4byB4Md6eJ_kCH2s&ct0=https://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCRcgwgViCW9ePG9SYpgOyt4cY7uWY8E3yoamqdMCNtwEQASAAYMnOxYvEpOAQggEXY2EtcHViLTI4NTUwMzQ0ODY4MjA2MjGgAazd_ugDyAEJ4AIAqAMBqgTKAU_QmK7MK6GG7b6lJ57yMyzMXLiMbP5UuzesWVwzyxN7HBGV6NC6yjI3d9Dg8MUuU3mlgIvPqFYWsil7Hw4_kH6dVG_MLc8Gof4WacyEIRyP7kzRsUrA9uxkTPw8QigeZOKHMHDDZxzzHk5GcqA1MSbLaZz9ymPSVMHJtWtFfU66TICdJI12EL-oDKs-Qv3Y3Sxrn-38eGwXV8GRSF_5YXrRHURk5bBCOuu99Q8lDv7viTFVpzD1uJ1dzj_02kwq-lQ-GyCGO7ahxlbgBAGABo-it9jStvKRwAGgBiGoB6a-G6gH2csbqAfPzBvYBwDSCAUIgGEQAQ%26num%3D1%26sig%3DAOD64_3mxhtAjum2Gr7yPhNvGoOaOYcDKw%26client%3Dca-pub-2855034486820621%26adurl%3D",
+            "Host": "pix.us.criteo.net",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.309": {
+        "url": "https://pix.us.criteo.net/img/img?c=1&h=400&m=0&partner=11454&q=80&r=0&u=https%3A%2F%2Funiqlo.scene7.com%2Fis%2Fimage%2FUNIQLO%2Fgoods_69_400003&v=3&w=400&s=t8V9Fz0JctACjcvKboxtOsOq",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://ads.us.criteo.com/delivery/r/afr.php?did=5b8258818f8b6b10ab2351d2b9c97e00&z=W4JYgQAGx9cKaYxUAAHbspdCl_C1omzdUL9xew&u=%7CWkPTPoxm6iVP6%2F8dl%2BTKW%2F1VRCitt3Uv4J%2BsmwDI0I8%3D%7C&c1=mifvEK3HXnnTB3gFVOxCxz8kQqN42XL3omuHlsbPhRVJlV7dP4rCnUJkbUVOQ4QnjwtCSA5G2kBP_0F8_r74GnRk0xluV-nHiel5bpbqBWWjDpusyEHR1bimv1fjY9i2y2KKoklRxFSWy5UZ4PVJ21FmJGRnSNa_xXmC7ouWBjee2kpU42z4JR7n8f3XhM-oMNzoVjhESVeciyQTtWvD_a5-WO-TQJSdWbuUePL_t4Zm449p40fcS0cfxW9pf0PAWeD0lr5rHikhquk0YaZVHrZWTsqtq0Fo6SIgAY8B8xi6H_WXw-Vq2TXlDrnEqRpxV0klIRkR4E0LMjEj_9S_LpzB34fsxgnMOp_baQ3ggSGxazPRpVNL6YtmjDdPxNLoY4TnFr99Ap1vp8aS4byB4Md6eJ_kCH2s&ct0=https://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCRcgwgViCW9ePG9SYpgOyt4cY7uWY8E3yoamqdMCNtwEQASAAYMnOxYvEpOAQggEXY2EtcHViLTI4NTUwMzQ0ODY4MjA2MjGgAazd_ugDyAEJ4AIAqAMBqgTKAU_QmK7MK6GG7b6lJ57yMyzMXLiMbP5UuzesWVwzyxN7HBGV6NC6yjI3d9Dg8MUuU3mlgIvPqFYWsil7Hw4_kH6dVG_MLc8Gof4WacyEIRyP7kzRsUrA9uxkTPw8QigeZOKHMHDDZxzzHk5GcqA1MSbLaZz9ymPSVMHJtWtFfU66TICdJI12EL-oDKs-Qv3Y3Sxrn-38eGwXV8GRSF_5YXrRHURk5bBCOuu99Q8lDv7viTFVpzD1uJ1dzj_02kwq-lQ-GyCGO7ahxlbgBAGABo-it9jStvKRwAGgBiGoB6a-G6gH2csbqAfPzBvYBwDSCAUIgGEQAQ%26num%3D1%26sig%3DAOD64_3mxhtAjum2Gr7yPhNvGoOaOYcDKw%26client%3Dca-pub-2855034486820621%26adurl%3D",
+            "Host": "pix.us.criteo.net",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.306": {
+        "url": "https://pix.us.criteo.net/img/img?h=106&m=0&partner=11454&q=80&r=0&u=http%3A%2F%2Fstatic.va.us.criteo.net%2Fdesign%2Fdt%2F11454%2F180809%2Fb1f03e85587f48db95ddb19ac7640452_h-logo.png&v=3&w=596&s=7XzUpZPs5VBAsHbRm8AHGhLf",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://ads.us.criteo.com/delivery/r/afr.php?did=5b8258818f8b6b10ab2351d2b9c97e00&z=W4JYgQAGx9cKaYxUAAHbspdCl_C1omzdUL9xew&u=%7CWkPTPoxm6iVP6%2F8dl%2BTKW%2F1VRCitt3Uv4J%2BsmwDI0I8%3D%7C&c1=mifvEK3HXnnTB3gFVOxCxz8kQqN42XL3omuHlsbPhRVJlV7dP4rCnUJkbUVOQ4QnjwtCSA5G2kBP_0F8_r74GnRk0xluV-nHiel5bpbqBWWjDpusyEHR1bimv1fjY9i2y2KKoklRxFSWy5UZ4PVJ21FmJGRnSNa_xXmC7ouWBjee2kpU42z4JR7n8f3XhM-oMNzoVjhESVeciyQTtWvD_a5-WO-TQJSdWbuUePL_t4Zm449p40fcS0cfxW9pf0PAWeD0lr5rHikhquk0YaZVHrZWTsqtq0Fo6SIgAY8B8xi6H_WXw-Vq2TXlDrnEqRpxV0klIRkR4E0LMjEj_9S_LpzB34fsxgnMOp_baQ3ggSGxazPRpVNL6YtmjDdPxNLoY4TnFr99Ap1vp8aS4byB4Md6eJ_kCH2s&ct0=https://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCRcgwgViCW9ePG9SYpgOyt4cY7uWY8E3yoamqdMCNtwEQASAAYMnOxYvEpOAQggEXY2EtcHViLTI4NTUwMzQ0ODY4MjA2MjGgAazd_ugDyAEJ4AIAqAMBqgTKAU_QmK7MK6GG7b6lJ57yMyzMXLiMbP5UuzesWVwzyxN7HBGV6NC6yjI3d9Dg8MUuU3mlgIvPqFYWsil7Hw4_kH6dVG_MLc8Gof4WacyEIRyP7kzRsUrA9uxkTPw8QigeZOKHMHDDZxzzHk5GcqA1MSbLaZz9ymPSVMHJtWtFfU66TICdJI12EL-oDKs-Qv3Y3Sxrn-38eGwXV8GRSF_5YXrRHURk5bBCOuu99Q8lDv7viTFVpzD1uJ1dzj_02kwq-lQ-GyCGO7ahxlbgBAGABo-it9jStvKRwAGgBiGoB6a-G6gH2csbqAfPzBvYBwDSCAUIgGEQAQ%26num%3D1%26sig%3DAOD64_3mxhtAjum2Gr7yPhNvGoOaOYcDKw%26client%3Dca-pub-2855034486820621%26adurl%3D",
+            "Host": "pix.us.criteo.net",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.311": {
+        "url": "https://pix.us.criteo.net/img/img?c=1&h=400&m=0&partner=11454&q=80&r=0&u=https%3A%2F%2Funiqlo.scene7.com%2Fis%2Fimage%2FUNIQLO%2Fgoods_54_404158&v=3&w=400&s=J69hTSg3uUSMNP2itnQxcqkp",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://ads.us.criteo.com/delivery/r/afr.php?did=5b8258818f8b6b10ab2351d2b9c97e00&z=W4JYgQAGx9cKaYxUAAHbspdCl_C1omzdUL9xew&u=%7CWkPTPoxm6iVP6%2F8dl%2BTKW%2F1VRCitt3Uv4J%2BsmwDI0I8%3D%7C&c1=mifvEK3HXnnTB3gFVOxCxz8kQqN42XL3omuHlsbPhRVJlV7dP4rCnUJkbUVOQ4QnjwtCSA5G2kBP_0F8_r74GnRk0xluV-nHiel5bpbqBWWjDpusyEHR1bimv1fjY9i2y2KKoklRxFSWy5UZ4PVJ21FmJGRnSNa_xXmC7ouWBjee2kpU42z4JR7n8f3XhM-oMNzoVjhESVeciyQTtWvD_a5-WO-TQJSdWbuUePL_t4Zm449p40fcS0cfxW9pf0PAWeD0lr5rHikhquk0YaZVHrZWTsqtq0Fo6SIgAY8B8xi6H_WXw-Vq2TXlDrnEqRpxV0klIRkR4E0LMjEj_9S_LpzB34fsxgnMOp_baQ3ggSGxazPRpVNL6YtmjDdPxNLoY4TnFr99Ap1vp8aS4byB4Md6eJ_kCH2s&ct0=https://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCRcgwgViCW9ePG9SYpgOyt4cY7uWY8E3yoamqdMCNtwEQASAAYMnOxYvEpOAQggEXY2EtcHViLTI4NTUwMzQ0ODY4MjA2MjGgAazd_ugDyAEJ4AIAqAMBqgTKAU_QmK7MK6GG7b6lJ57yMyzMXLiMbP5UuzesWVwzyxN7HBGV6NC6yjI3d9Dg8MUuU3mlgIvPqFYWsil7Hw4_kH6dVG_MLc8Gof4WacyEIRyP7kzRsUrA9uxkTPw8QigeZOKHMHDDZxzzHk5GcqA1MSbLaZz9ymPSVMHJtWtFfU66TICdJI12EL-oDKs-Qv3Y3Sxrn-38eGwXV8GRSF_5YXrRHURk5bBCOuu99Q8lDv7viTFVpzD1uJ1dzj_02kwq-lQ-GyCGO7ahxlbgBAGABo-it9jStvKRwAGgBiGoB6a-G6gH2csbqAfPzBvYBwDSCAUIgGEQAQ%26num%3D1%26sig%3DAOD64_3mxhtAjum2Gr7yPhNvGoOaOYcDKw%26client%3Dca-pub-2855034486820621%26adurl%3D",
+            "Host": "pix.us.criteo.net",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.313": {
+        "url": "https://pix.us.criteo.net/img/img?c=1&h=400&m=0&partner=11454&q=80&r=0&u=https%3A%2F%2Funiqlo.scene7.com%2Fis%2Fimage%2FUNIQLO%2Fgoods_27_404663&v=3&w=400&s=yh-7HuBcKnw89AAtE5dirQVI",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://ads.us.criteo.com/delivery/r/afr.php?did=5b8258818f8b6b10ab2351d2b9c97e00&z=W4JYgQAGx9cKaYxUAAHbspdCl_C1omzdUL9xew&u=%7CWkPTPoxm6iVP6%2F8dl%2BTKW%2F1VRCitt3Uv4J%2BsmwDI0I8%3D%7C&c1=mifvEK3HXnnTB3gFVOxCxz8kQqN42XL3omuHlsbPhRVJlV7dP4rCnUJkbUVOQ4QnjwtCSA5G2kBP_0F8_r74GnRk0xluV-nHiel5bpbqBWWjDpusyEHR1bimv1fjY9i2y2KKoklRxFSWy5UZ4PVJ21FmJGRnSNa_xXmC7ouWBjee2kpU42z4JR7n8f3XhM-oMNzoVjhESVeciyQTtWvD_a5-WO-TQJSdWbuUePL_t4Zm449p40fcS0cfxW9pf0PAWeD0lr5rHikhquk0YaZVHrZWTsqtq0Fo6SIgAY8B8xi6H_WXw-Vq2TXlDrnEqRpxV0klIRkR4E0LMjEj_9S_LpzB34fsxgnMOp_baQ3ggSGxazPRpVNL6YtmjDdPxNLoY4TnFr99Ap1vp8aS4byB4Md6eJ_kCH2s&ct0=https://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCRcgwgViCW9ePG9SYpgOyt4cY7uWY8E3yoamqdMCNtwEQASAAYMnOxYvEpOAQggEXY2EtcHViLTI4NTUwMzQ0ODY4MjA2MjGgAazd_ugDyAEJ4AIAqAMBqgTKAU_QmK7MK6GG7b6lJ57yMyzMXLiMbP5UuzesWVwzyxN7HBGV6NC6yjI3d9Dg8MUuU3mlgIvPqFYWsil7Hw4_kH6dVG_MLc8Gof4WacyEIRyP7kzRsUrA9uxkTPw8QigeZOKHMHDDZxzzHk5GcqA1MSbLaZz9ymPSVMHJtWtFfU66TICdJI12EL-oDKs-Qv3Y3Sxrn-38eGwXV8GRSF_5YXrRHURk5bBCOuu99Q8lDv7viTFVpzD1uJ1dzj_02kwq-lQ-GyCGO7ahxlbgBAGABo-it9jStvKRwAGgBiGoB6a-G6gH2csbqAfPzBvYBwDSCAUIgGEQAQ%26num%3D1%26sig%3DAOD64_3mxhtAjum2Gr7yPhNvGoOaOYcDKw%26client%3Dca-pub-2855034486820621%26adurl%3D",
+            "Host": "pix.us.criteo.net",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.315": {
+        "url": "https://pix.us.criteo.net/img/img?c=1&h=400&m=0&partner=11454&q=80&r=0&u=https%3A%2F%2Funiqlo.scene7.com%2Fis%2Fimage%2FUNIQLO%2Fgoods_36_412729&v=3&w=400&s=865G2U60RNqXezOiapJvl3Pt",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://ads.us.criteo.com/delivery/r/afr.php?did=5b8258818f8b6b10ab2351d2b9c97e00&z=W4JYgQAGx9cKaYxUAAHbspdCl_C1omzdUL9xew&u=%7CWkPTPoxm6iVP6%2F8dl%2BTKW%2F1VRCitt3Uv4J%2BsmwDI0I8%3D%7C&c1=mifvEK3HXnnTB3gFVOxCxz8kQqN42XL3omuHlsbPhRVJlV7dP4rCnUJkbUVOQ4QnjwtCSA5G2kBP_0F8_r74GnRk0xluV-nHiel5bpbqBWWjDpusyEHR1bimv1fjY9i2y2KKoklRxFSWy5UZ4PVJ21FmJGRnSNa_xXmC7ouWBjee2kpU42z4JR7n8f3XhM-oMNzoVjhESVeciyQTtWvD_a5-WO-TQJSdWbuUePL_t4Zm449p40fcS0cfxW9pf0PAWeD0lr5rHikhquk0YaZVHrZWTsqtq0Fo6SIgAY8B8xi6H_WXw-Vq2TXlDrnEqRpxV0klIRkR4E0LMjEj_9S_LpzB34fsxgnMOp_baQ3ggSGxazPRpVNL6YtmjDdPxNLoY4TnFr99Ap1vp8aS4byB4Md6eJ_kCH2s&ct0=https://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCRcgwgViCW9ePG9SYpgOyt4cY7uWY8E3yoamqdMCNtwEQASAAYMnOxYvEpOAQggEXY2EtcHViLTI4NTUwMzQ0ODY4MjA2MjGgAazd_ugDyAEJ4AIAqAMBqgTKAU_QmK7MK6GG7b6lJ57yMyzMXLiMbP5UuzesWVwzyxN7HBGV6NC6yjI3d9Dg8MUuU3mlgIvPqFYWsil7Hw4_kH6dVG_MLc8Gof4WacyEIRyP7kzRsUrA9uxkTPw8QigeZOKHMHDDZxzzHk5GcqA1MSbLaZz9ymPSVMHJtWtFfU66TICdJI12EL-oDKs-Qv3Y3Sxrn-38eGwXV8GRSF_5YXrRHURk5bBCOuu99Q8lDv7viTFVpzD1uJ1dzj_02kwq-lQ-GyCGO7ahxlbgBAGABo-it9jStvKRwAGgBiGoB6a-G6gH2csbqAfPzBvYBwDSCAUIgGEQAQ%26num%3D1%26sig%3DAOD64_3mxhtAjum2Gr7yPhNvGoOaOYcDKw%26client%3Dca-pub-2855034486820621%26adurl%3D",
+            "Host": "pix.us.criteo.net",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.317": {
+        "url": "https://pix.us.criteo.net/img/img?c=1&h=400&m=0&partner=11454&q=80&r=0&u=https%3A%2F%2Funiqlo.scene7.com%2Fis%2Fimage%2FUNIQLO%2Fgoods_69_407861&v=3&w=400&s=5RDATnt7UV2SdIGsFeXLuL1Y",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://ads.us.criteo.com/delivery/r/afr.php?did=5b8258818f8b6b10ab2351d2b9c97e00&z=W4JYgQAGx9cKaYxUAAHbspdCl_C1omzdUL9xew&u=%7CWkPTPoxm6iVP6%2F8dl%2BTKW%2F1VRCitt3Uv4J%2BsmwDI0I8%3D%7C&c1=mifvEK3HXnnTB3gFVOxCxz8kQqN42XL3omuHlsbPhRVJlV7dP4rCnUJkbUVOQ4QnjwtCSA5G2kBP_0F8_r74GnRk0xluV-nHiel5bpbqBWWjDpusyEHR1bimv1fjY9i2y2KKoklRxFSWy5UZ4PVJ21FmJGRnSNa_xXmC7ouWBjee2kpU42z4JR7n8f3XhM-oMNzoVjhESVeciyQTtWvD_a5-WO-TQJSdWbuUePL_t4Zm449p40fcS0cfxW9pf0PAWeD0lr5rHikhquk0YaZVHrZWTsqtq0Fo6SIgAY8B8xi6H_WXw-Vq2TXlDrnEqRpxV0klIRkR4E0LMjEj_9S_LpzB34fsxgnMOp_baQ3ggSGxazPRpVNL6YtmjDdPxNLoY4TnFr99Ap1vp8aS4byB4Md6eJ_kCH2s&ct0=https://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCRcgwgViCW9ePG9SYpgOyt4cY7uWY8E3yoamqdMCNtwEQASAAYMnOxYvEpOAQggEXY2EtcHViLTI4NTUwMzQ0ODY4MjA2MjGgAazd_ugDyAEJ4AIAqAMBqgTKAU_QmK7MK6GG7b6lJ57yMyzMXLiMbP5UuzesWVwzyxN7HBGV6NC6yjI3d9Dg8MUuU3mlgIvPqFYWsil7Hw4_kH6dVG_MLc8Gof4WacyEIRyP7kzRsUrA9uxkTPw8QigeZOKHMHDDZxzzHk5GcqA1MSbLaZz9ymPSVMHJtWtFfU66TICdJI12EL-oDKs-Qv3Y3Sxrn-38eGwXV8GRSF_5YXrRHURk5bBCOuu99Q8lDv7viTFVpzD1uJ1dzj_02kwq-lQ-GyCGO7ahxlbgBAGABo-it9jStvKRwAGgBiGoB6a-G6gH2csbqAfPzBvYBwDSCAUIgGEQAQ%26num%3D1%26sig%3DAOD64_3mxhtAjum2Gr7yPhNvGoOaOYcDKw%26client%3Dca-pub-2855034486820621%26adurl%3D",
+            "Host": "pix.us.criteo.net",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36"
+        }
+    },
+    "1000010945.320": {
+        "url": "https://static.doubleclick.net/dynamic/5/65138550/12094632246475063450_10689974108614054599.jpeg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            ":path": "/dynamic/5/65138550/12094632246475063450_10689974108614054599.jpeg",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "referer": "http://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html",
+            ":authority": "static.doubleclick.net",
+            "cookie": "IDE=AHWqTUl_quqGluOi8MFkQcmKXueYlaXwUk_TIlQ3W1csoD6oCVlTqJHpAA; DSID=NO_DATA",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "1000010945.321": {
+        "url": "https://static.doubleclick.net/dynamic/5/65138550/8238949418866384388_15452669358260349948.jpeg",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            ":path": "/dynamic/5/65138550/8238949418866384388_15452669358260349948.jpeg",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "referer": "http://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html",
+            ":authority": "static.doubleclick.net",
+            "cookie": "IDE=AHWqTUl_quqGluOi8MFkQcmKXueYlaXwUk_TIlQ3W1csoD6oCVlTqJHpAA; DSID=NO_DATA",
+            ":scheme": "https",
+            ":method": "GET"
+        }
+    },
+    "9F48E8DA55C0F49F70F10CE04BA74466": {
+        "url": "https://static.eu.criteo.net/empty.html",
+        "method": "GET",
+        "type": "Document",
+        "headers": {
+            "Host": "static.eu.criteo.net",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.106 HeadlessChrome/68.0.3440.106 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+            "Referer": "https://ads.us.criteo.com/delivery/r/afr.php?did=5b8258818f8b6b10ab2351d2b9c97e00&z=W4JYgQAGx9cKaYxUAAHbspdCl_C1omzdUL9xew&u=%7CWkPTPoxm6iVP6%2F8dl%2BTKW%2F1VRCitt3Uv4J%2BsmwDI0I8%3D%7C&c1=mifvEK3HXnnTB3gFVOxCxz8kQqN42XL3omuHlsbPhRVJlV7dP4rCnUJkbUVOQ4QnjwtCSA5G2kBP_0F8_r74GnRk0xluV-nHiel5bpbqBWWjDpusyEHR1bimv1fjY9i2y2KKoklRxFSWy5UZ4PVJ21FmJGRnSNa_xXmC7ouWBjee2kpU42z4JR7n8f3XhM-oMNzoVjhESVeciyQTtWvD_a5-WO-TQJSdWbuUePL_t4Zm449p40fcS0cfxW9pf0PAWeD0lr5rHikhquk0YaZVHrZWTsqtq0Fo6SIgAY8B8xi6H_WXw-Vq2TXlDrnEqRpxV0klIRkR4E0LMjEj_9S_LpzB34fsxgnMOp_baQ3ggSGxazPRpVNL6YtmjDdPxNLoY4TnFr99Ap1vp8aS4byB4Md6eJ_kCH2s&ct0=https://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCRcgwgViCW9ePG9SYpgOyt4cY7uWY8E3yoamqdMCNtwEQASAAYMnOxYvEpOAQggEXY2EtcHViLTI4NTUwMzQ0ODY4MjA2MjGgAazd_ugDyAEJ4AIAqAMBqgTKAU_QmK7MK6GG7b6lJ57yMyzMXLiMbP5UuzesWVwzyxN7HBGV6NC6yjI3d9Dg8MUuU3mlgIvPqFYWsil7Hw4_kH6dVG_MLc8Gof4WacyEIRyP7kzRsUrA9uxkTPw8QigeZOKHMHDDZxzzHk5GcqA1MSbLaZz9ymPSVMHJtWtFfU66TICdJI12EL-oDKs-Qv3Y3Sxrn-38eGwXV8GRSF_5YXrRHURk5bBCOuu99Q8lDv7viTFVpzD1uJ1dzj_02kwq-lQ-GyCGO7ahxlbgBAGABo-it9jStvKRwAGgBiGoB6a-G6gH2csbqAfPzBvYBwDSCAUIgGEQAQ%26num%3D1%26sig%3DAOD64_3mxhtAjum2Gr7yPhNvGoOaOYcDKw%26client%3Dca-pub-2855034486820621%26adurl%3D",
+            "Accept-Encoding": "gzip, deflate"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "facebook.com": "c_user",
+    "twitter.com": [
+        [
+            "_ga, _gat",
+            "_gid",
+            "_twitter_sess",
+            "ct0",
+            "guest_id",
+            "metrics_token",
+            "personalization_id"
+        ],
+        "twid"
+    ],
+    "Linkedin": 
+}

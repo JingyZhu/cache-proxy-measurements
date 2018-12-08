@@ -1,0 +1,182 @@
+{
+    "4424751E239FAEE445D33149F758F068": {
+        "url": "https://www.flashx.tv/",
+        "method": "GET",
+        "type": "Document",
+        "headers": {
+            "Host": "www.flashx.tv",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+            "Accept-Encoding": "gzip, deflate"
+        },
+        "response": {
+            "Server": "nginx",
+            "Date": "Sun, 14 Oct 2018 23:50:56 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Expires": "Sat, 13 Oct 2018 23:47:22 GMT",
+            "X-frame-options": "\"",
+            "Access-Control-Allow-Origin": "*",
+            "Content-Encoding": "gzip"
+        },
+        "bytes": 4289
+    },
+    "1000027632.4": {
+        "url": "https://static.flashx.tv/js/light.min.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://www.flashx.tv/",
+            "Host": "static.flashx.tv",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+        },
+        "response": {
+            "Date": "Wed, 10 Oct 2018 15:04:06 GMT",
+            "Last-Modified": "Fri, 07 Aug 2015 15:04:24 GMT",
+            "Server": "nginx",
+            "Content-Type": "application/javascript",
+            "Access-Control-Allow-Origin": "*",
+            "Connection": "keep-alive",
+            "Accept-Ranges": "bytes",
+            "Content-Length": "3711"
+        },
+        "bytes": 3966
+    },
+    "1000027632.6": {
+        "url": "https://static.flashx.tv/js/xupload.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://www.flashx.tv/",
+            "Host": "static.flashx.tv",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+        },
+        "response": {
+            "Date": "Wed, 10 Oct 2018 15:04:06 GMT",
+            "Last-Modified": "Wed, 07 Dec 2016 21:34:11 GMT",
+            "Server": "nginx",
+            "Content-Type": "application/javascript",
+            "Access-Control-Allow-Origin": "*",
+            "Connection": "keep-alive",
+            "Accept-Ranges": "bytes",
+            "Content-Length": "9350"
+        },
+        "bytes": 9605
+    },
+    "1000027632.5": {
+        "url": "https://static.flashx.tv/js/jquery.min.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://www.flashx.tv/",
+            "Host": "static.flashx.tv",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+        },
+        "response": {
+            "Date": "Wed, 10 Oct 2018 15:04:06 GMT",
+            "Last-Modified": "Thu, 22 Mar 2012 01:46:56 GMT",
+            "Server": "nginx",
+            "Content-Type": "application/javascript",
+            "Access-Control-Allow-Origin": "*",
+            "Connection": "keep-alive",
+            "Accept-Ranges": "bytes",
+            "Content-Length": "94840"
+        },
+        "bytes": 95096
+    },
+    "1000027632.33": {
+        "url": "https://d31qbv1cthcecs.cloudfront.net/atrk.js",
+        "method": "GET",
+        "type": "Script",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://www.flashx.tv/",
+            "Host": "d31qbv1cthcecs.cloudfront.net",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+        },
+        "response": {
+            "Date": "Tue, 09 Oct 2018 23:36:18 GMT",
+            "Content-Encoding": "gzip",
+            "Last-Modified": "Tue, 09 Oct 2018 23:27:27 GMT",
+            "Server": "AmazonS3",
+            "Age": "56508",
+            "Vary": "Accept-Encoding",
+            "X-Cache": "Hit from cloudfront",
+            "Content-Type": "text/javascript",
+            "Via": "1.1 3cbab2578acd1e152b30854843ce874a.cloudfront.net (CloudFront)",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "X-Amz-Cf-Id": "QZFTKFeDQtAK-mgDMuj6Ej_1PNv1hTT8QmS7TneWXjFiDBjzNUxkOw=="
+        },
+        "bytes": 2084
+    },
+    "1000027632.35": {
+        "url": "https://certify.alexametrics.com/atrk.gif?frame_height=600&frame_width=800&iframe=0&title=flashX.tv&time=1539561057856&time_zone_offset=0&screen_params=800x600x24&java_enabled=0&cookie_enabled=1&ref_url=&host_url=https%3A%2F%2Fwww.flashx.tv%2F&random_number=14766297590&sess_cookie=42c59eb316674fd6e3a253741a2&sess_cookie_flag=1&user_cookie=42c59eb316674fd6e3a253741a2&user_cookie_flag=1&dynamic=true&domain=flashx.tv&account=Ltftk1aUy100i4&jsv=20130128&user_lang=en-US",
+        "method": "GET",
+        "type": "Image",
+        "headers": {
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://www.flashx.tv/",
+            "Host": "certify.alexametrics.com",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+        },
+        "response": {
+            "Date": "Tue, 21 Nov 2017 21:18:02 GMT",
+            "Via": "1.1 dbf3cec9f1989f98e490467b50a97739.cloudfront.net (CloudFront)",
+            "Last-Modified": "Mon, 17 Jan 2011 20:41:40 GMT",
+            "Server": "AmazonS3",
+            "Age": "80797",
+            "ETag": "\"221d8352905f2c38b3cb2bd191d630b0\"",
+            "X-Cache": "Hit from cloudfront",
+            "Content-Type": "image/gif",
+            "Accept-Ranges": "bytes",
+            "Connection": "keep-alive",
+            "x-amz-meta-alexa-last-modified": "20110117123941",
+            "Content-Length": "43",
+            "X-Amz-Cf-Id": "0V4tK_KiLFEnSA1ULMRanntf3T5iwbVMkfbZ1gTpAr7QXABXnhIhUg=="
+        },
+        "bytes": 528
+    },
+    "1000027632.31": {
+        "url": "https://syndication.exdynsrv.com/splash.php?native-settings=1&idzone=2676306&p=https%3A%2F%2Fwww.flashx.tv%2F",
+        "method": "GET",
+        "type": "XHR",
+        "headers": {
+            "Accept": "*/*",
+            "Connection": "keep-alive",
+            "Origin": "https://www.flashx.tv",
+            "Accept-Encoding": "gzip, deflate",
+            "Referer": "https://www.flashx.tv/",
+            "Host": "syndication.exdynsrv.com",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/69.0.3497.81 HeadlessChrome/69.0.3497.81 Safari/537.36"
+        },
+        "response": {
+            "Date": "Sun, 14 Oct 2018 23:50:58 GMT",
+            "Content-Encoding": "gzip",
+            "Server": "nginx",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Access-Control-Allow-Origin": "https://www.flashx.tv",
+            "Set-Cookie": "__uvt=a%3A1%3A%7Bi%3A0%3Bs%3A32%3A%225bc3d661ed9d01.17576482822939183%22%3B%7D; expires=Tue, 13-Oct-2020 23:50:57 GMT; Max-Age=63072000; domain=exdynsrv.com\nimpressions=x%9CK%B42%B2%AA%CE%B42213451%B2N%B42%B1%AA.%06%12J%19%99%25%C5J%D6%99V%86%D6%60nIfn%2A%98kjlijfh%60j%01%14%B7%B0R%CAI%2C.%C1%2Aghn%A5%94%9CXP%90%99%97%1E%9FV%94ZX%9A%9A%97%5C%A9%041%CC%D0%C4%C4%40%C9%BA%16h%AD%B1%A9%91%B9%91%01%ED%AD%F5%B3%AE%AD%05%00%A6%F6D3; expires=Mon, 15-Oct-2018 23:50:58 GMT; Max-Age=86400; path=/; domain=.exdynsrv.com\ntag-banner=v3%7C18.219.48.234%7CUSA%7C2676306%7C21305384%7C49672%7C%7C496%7C0%7C2%7C15%7C0%7C0%7C0%7C332%7C5165418%7C4509177%7C0%7C0%7C2%7C2%7C0%7C0%7C1%7C0%7C0%7C1%7C%7C9f351ecc6de34d6ffb19a323be13f6fa%7C0%7Cflashx.tv%7C%7C%7C0%7Cok; expires=Mon, 15-Oct-2018 23:50:58 GMT; Max-Age=86400; path=/; domain=.exdynsrv.com\ntag-banner=v3%7C18.219.48.234%7CUSA%7C2676306%7C20023456%7C48970%7C%7C496%7C0%7C2%7C15%7C0%7C0%7C0%7C332%7C5165418%7C4509177%7C0%7C0%7C2%7C2%7C0%7C0%7C1%7C0%7C0%7C1%7C%7C9f351ecc6de34d6ffb19a323be13f6fa%7C0%7Cflashx.tv%7C%7C%7C0%7Cok; expires=Mon, 15-Oct-2018 23:50:58 GMT; Max-Age=86400; path=/; domain=.exdynsrv.com",
+            "Access-Control-Allow-Credentials": "true",
+            "Connection": "keep-alive"
+        },
+        "bytes": 3387
+    }
+}
