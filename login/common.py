@@ -16,7 +16,7 @@ def strip_colon(headers):
 		new_header[k.strip(':')] = v
 	return new_header
 
-def similar(len1, len2, text1, text2, thres=0.98):
+def similar(len1, len2, text1, text2, thres=1):
     if len1 == 0 and len2 == 0 or (len1 == len2):
         return True, 1
     else: # tf-idf
@@ -26,7 +26,7 @@ def similar(len1, len2, text1, text2, thres=0.98):
             similar = cosine_similarity(x)[0][1]
         except:
             similar = 0
-        return similar > thres, similar
+        return similar >= thres, similar
 
 # Tect: Whethertext should be returned
 def find_length(r, text=False):
