@@ -7,3 +7,4 @@ package-lock.json
 cmd
 test.py
 .DS_Store
+/headers/
