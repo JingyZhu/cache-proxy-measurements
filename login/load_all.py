@@ -34,7 +34,7 @@ time.sleep(1)
 for web in weblist:
     print(web)
     try:
-        call(['./union.py', web, 'new'], timeout=90)
+        call(['./login.py', web, 'new'], timeout=120)
         time.sleep(1)
     except Exception as e:
         print("Chrome.py: Wrong with recording {}: {}".format(web, str(e)) )

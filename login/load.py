@@ -12,6 +12,7 @@ from urllib.parse import urlparse
 from hyper.contrib import HTTP20Adapter
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from extr_resource import extr_resource
 
 host = sys.argv[1]
 url = 'https://' + host
@@ -37,7 +38,7 @@ def load(login):
                 print(str(e))
                 continue
             byte, text = common.find_length(r, True)
-            is_similar, similarity = common.similar(byte, req['bytes'], text, check_output(['python3', 'extract_resource.py', host.replace('/', '_'), req['url']]).decode())
+            is_similar, similarity = common.similar(byte, req['length'], text, extr_resource(host.replace('/', '_'), req['url']))
             if is_similar:
                 compare['same'][req['url']] = [byte]
             else:
@@ -50,13 +51,6 @@ def identical_response(byte, body, req, resource):
         return byte == req['bytes']
     return body == resource['body']
 
-
-
-# def find_length(r):
-#     if 'content-encoding' in r.headers and r.headers['content-encoding'] == 'br':
-#         return (len(brotli.decompress(r.content)),  brotli.decompress(r.content))
-#     else:
-#         return (len(base64.b64encode(r.content)), base64.b64encode(r.content).decode())
 
 
 f = open(os.path.join('headers', 'login', host.replace('/', '_') + '.json'), 'r').read()
