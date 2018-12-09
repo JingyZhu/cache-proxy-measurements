@@ -115,7 +115,7 @@ async function main(){
                 }
             }
             const filename = getFileName();
-            fs.writeFile(path.join('headers', 'login', filename), JSON.stringify(reqStat), 'utf-8', err => {
+            fs.writeFile(path.join('headers', 'meta', filename), JSON.stringify(reqStat), 'utf-8', err => {
                 if (err) throw err;
             });
             fs.writeFile(path.join('headers', 'resources', filename), JSON.stringify(resources), 'utf-8', err=>{

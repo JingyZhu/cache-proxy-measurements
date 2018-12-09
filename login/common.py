@@ -16,7 +16,7 @@ def strip_colon(headers):
 		new_header[k.strip(':')] = v
 	return new_header
 
-def similar(len1, len2, text1, text2, thres=1):
+def similar(len1, len2, text1, text2, thres=0.98):
     if len1 == 0 and len2 == 0 or (len1 == len2):
         return True, 1
     else: # tf-idf
