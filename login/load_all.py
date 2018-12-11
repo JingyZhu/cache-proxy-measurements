@@ -50,7 +50,7 @@ def unlogin(weblist):
     for web in weblist:
         print(web)
         try:
-            call(['python3', 'load.py', web], timeout=45)
+            call(['python3', 'unlogin.py', web], timeout=45)
             time.sleep(1)
         except Exception as e:
             print("load.py: Wrong with recording {}: {}".format(web, str(e)) )
@@ -64,13 +64,11 @@ if __name__ == '__main__':
         del weblist[-1]
     is_login = 'login' in sys.argv
     is_unlogin = 'unlogin' in sys.argv
-    all_web = (len(sys.argv) < 2) or (not bool((is_login + is_unlogin) % 2) and len(sys.argv) == 2)
+    all_web = (len(sys.argv) < 2) or (bool((is_login + is_unlogin) % 2) and len(sys.argv) == 2)
     if not all_web:
         weblist = [sys.argv[1]]
+    # print(all_web, is_login, is_unlogin)
     if is_login or not is_unlogin:
         login(weblist)
     if is_unlogin or not is_login:
         unlogin(weblist)
-
-
-

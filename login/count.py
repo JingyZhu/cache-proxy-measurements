@@ -25,12 +25,16 @@ def count_cookie(cookie_dict):
         tot += value[1]
     return cok, tot
 
+def find_bytes(meta, url):
+    for _, v in meta.items():
+        if v['url'] == url:
+            return v['bytes']
+
 def original_count():
     """
     Count for diff resources counts
     """
     strr = ''
-    strr2 = ''
     for file in file_list:
         f1 = open(os.path.join('headers/compare', file.replace('/', '_') + '.json'), 'r').read()
         j1 = json.loads(f1)
@@ -38,21 +42,50 @@ def original_count():
         j2 = json.loads(f2)
         same = len(j1['same'].keys())
         diff = len(j1['diff'].keys())
-        available = len(j2['available'].keys())
         unavailable = len(j2['unavailable'].keys())
         cok, tot = count_cookie(j2['cookie_count'])
         strr += "['{}', {}, {}, {}, {}], \n".format(file, unavailable, diff, same, tot-cok)
     print(strr)
-    print('\n\n')
-    print(strr2)
+
+def original_count_bytes():
+    """
+    Count for diff resources counts in bytes
+    """
+    strr = ''
+    for file in file_list:
+        f1 = open(os.path.join('headers/compare', file.replace('/', '_') + '.json'), 'r').read()
+        j1 = json.loads(f1)
+        f2 = open(os.path.join('headers/login', file.replace('/', '_') + '.json'), 'r').read()
+        j2 = json.loads(f2)
+        f3 = open(os.path.join('headers/meta', file.replace('/', '_') + '.json'), 'r').read()
+        j3 = json.loads(f3)['available']
+        same, diff, unavailable = 0, 0, 0
+        remain = 0
+        urls = {}
+        for k in j1['same'].keys():
+            urls[k] = 0
+            same += find_bytes(j3, k)
+        for k in j1['diff'].keys():
+            urls[k] = 0
+            diff += find_bytes(j3, k)
+        for v in j2['unavailable'].values():
+            urls[v['url']] = 0
+            unavailable += find_bytes(j3, v['url'])
+        for v in j3.values():
+            if v['url'] not in urls and 'bytes' in v:
+                urls[v['url']] = 0;
+                remain += v['bytes']
+        strr += "['{}', {}, {}, {}, {}], \n".format(file, unavailable/1000, diff/1000, same/1000, remain/1000)
+    print(strr)
+
 
 
 def conditions(v):
-    key_words = ['?', 'ajax', 'api']
+    key_words = ['ajax', 'api']
     rval1, rval2 = True, True
     no_init = v.get('initiator') == None or v.get('initiator') == "nothing"
     initiator_ext = '' if no_init else os.path.splitext(urlparse(v['initiator']).path)[1]
-    query = '?' in v['url']
+    query = urlparse(v['url']).query != ''
     rval1 = no_init and v['type'] == 'Document'
     rval2 = query and (v.get('type') in ['XHR', 'Fetch'])
     rval3 = (v.get('type') in ['XHR', 'Fetch']) and any([w in v['url'] for w in key_words])
@@ -106,6 +139,5 @@ def unlogin_type_count():
     # strr2 += "['{}', {}], \n".format(file, ','.join([str(diff_type[t]) if t in diff_type else '0' for t in types]) )
 
 if __name__ == '__main__':
-    initiator_count()
-    unlogin_type_count()
-    
+    original_count()
+    original_count_bytes()
