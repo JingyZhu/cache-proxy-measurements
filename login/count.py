@@ -85,12 +85,12 @@ def conditions(v):
     rval1, rval2 = True, True
     no_init = v.get('initiator') == None or v.get('initiator') == "nothing"
     initiator_ext = '' if no_init else os.path.splitext(urlparse(v['initiator']).path)[1]
-    query = urlparse(v['url']).query != ''
+    query_param = urlparse(v['url']).query != '' or urlparse(v['url']).params != ''
     rval1 = no_init and v['type'] == 'Document'
-    rval2 = query and (v.get('type') in ['XHR', 'Fetch'])
+    rval2 = query_param and (v.get('type') in ['XHR', 'Fetch'])
     rval3 = (v.get('type') in ['XHR', 'Fetch']) and any([w in v['url'] for w in key_words])
     # rval2 = rval2 and any([w in v['url'] for w in key_words])
-    return rval1 or rval2 or rval3
+    return   rval2 # or rval3
 
 
 def initiator_count():
@@ -139,5 +139,7 @@ def unlogin_type_count():
     # strr2 += "['{}', {}], \n".format(file, ','.join([str(diff_type[t]) if t in diff_type else '0' for t in types]) )
 
 if __name__ == '__main__':
-    original_count()
-    original_count_bytes()
+    #original_count()
+    #original_count_bytes()
+    initiator_count()
+    unlogin_type_count()
