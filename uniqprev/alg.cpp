@@ -40,6 +40,7 @@ struct vec_hash{
 };
 
 int N = 0;
+int finished = 0;
 int NUM_THREADS = stoi(exec("nproc"));
 queue<int> urlQ;
 
@@ -136,7 +137,7 @@ void threadFunc(const vector<int> &beref_gt_N, const vector<vector<vector<int> >
             unordered_set<int> &path = cur_state.path;
             dfs_stack.pop();
             vector<int> avail_urls = available_urls(pairIntst[url], poss_set, url, path);
-            if (avail_urls.empty()){
+            if (avail_urls.empty() && path.size() > 1){
                 mutex_trintst.lock();
                 traversed_intersect[intst] = path;
                 mutex_trintst.unlock();
@@ -149,7 +150,7 @@ void threadFunc(const vector<int> &beref_gt_N, const vector<vector<vector<int> >
             }
         }
         mq.lock();
-        cout << "end: " << url << endl;
+        cout << "finished: " << ++finished << endl;
     }
     mq.unlock();
 }
